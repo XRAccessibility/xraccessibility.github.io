@@ -1,3 +1,4 @@
+![XR Association + XR Access](https://lh6.googleusercontent.com/u5j8_C0GylCfYpnbgZ5CN-QDg8ovDOmaaOn1_F-mmcZesfjLKCd5NM6Lh97fn0eEBDlciq7H1oTYu7lzWcNMDSZlPOCFYn51J1OSZxBN5OjsVfliqrqYTiM8-5W2IOmTzNVYn8yV=s0)
 # XRAccessibility Project Overview
 The XRAccessibility Project is an initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms. We were inspired by developers, key players in ensuring that this technology is accessible, who reported challenges in finding accessible code snippets. Here are some of its features:
 
