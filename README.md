@@ -18,7 +18,7 @@ The XRAccessibility Project is an initiative driven by the XR Association and XR
 |-----------------------	|------------------------------------------------------------------------------	|
 | ARCore                	| Android                                                                      	|
 | ARKit                 	| iOS                                                                          	|
-| LuminOS               	| Magicleap                                                                    	|
+| LuminOS               	| Magic Leap One                                                                    	|
 | Unity                 	| Many                          	|
 | Unreal                	| Many                          	|
 | WebXR                 	| Web browsers                       	|
@@ -28,8 +28,6 @@ The XRAccessibility Project is an initiative driven by the XR Association and XR
 
 # General Resources to Help You Get Started
 If you’re new to XR and Accessibility, then check out these resources for concepts and ideas:
-
-  
 
 [XRA’s Developers Guide, Chapter Three](https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/): Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities.
     
@@ -41,25 +39,28 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 ## ARCore  
 <a href="https://developers.google.com/ar"><img src="https://lh5.googleusercontent.com/LUJl3XvZqfOZ_xXXijUpITswTFnl1w8fzRC4VVw3EiCy21uiJvvZftxrr_GvJEGDYjQBhtPCZLH6FQWec2TYHs4pPLVKnOZr4txM4BwsrsWxY-1tF_0YspVvVGS--U9MRoeVwVrH=s0" alt="ARCore" height="100"></a>
 
-[ARCore](https://developers.google.com/ar)
+[ARCore home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
+
+
 
 ## ARKit
 
 <a href="https://developer.apple.com/augmented-reality/arkit/"><img src="https://lh3.googleusercontent.com/N1pUTIqcv9JUqgpaOCj1REfepYnuWr8z_NxY1scNuBHrTtlXdmxOXdJjKXdyMu-xj9AzfGbr74BXAMbS4q-ZS6GB-SLvXilmx4Othe5Bf8WhJbSuMZAI1wgBp-9ys9sDKf_4iB_5=s0" alt="ARKit" height="100"></a>
-
-[Apple’s ARKit Documentation](https://developer.apple.com/documentation/arkit)
+[ARKit home](https://developer.apple.com/augmented-reality/arkit/) - An overview of ARKit, Apple's development toolkit for iOS.
+[Apple’s ARKit Documentation](https://developer.apple.com/documentation/arkit) - Development details for ARKit.
 
 ## Lumin OS
 
 <a href="https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview"><img src="https://lh5.googleusercontent.com/DXsv8lzxvge2KjYrjdFGO_fpxNzgcsFFe9I7atY__ArnbSABB-CUJj2TQTNOZk3EveVg90rIEjth5y0Yt2fx6m0cLyzvBvrPvYpqAbZ5mgJOP-ae1lXBGz7JxPv-F7LhgpGvYUp3=s0" alt="Lumin OS" height="100"></a>
   
 
-[Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview)
+[Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview) - An overview of Lumin OS, the operating developed by Magic Leap for their augmented reality devices.
 
 ## Unity
 
 <a href="https://unity.com/"><img src="https://lh5.googleusercontent.com/-EP7EuF1yeBoIbMEa4GXgbjCS_xmRa5cRvzcGcFoD-duaIwWY1w1am95h8jf9s1iWyymykJBkTCC8yTzVPqg7iIA0QFFHFtSH-oZNJPFfsfYh9hFueBWzbpUroqsk7peri-q7tLw=s0" alt="Unity" height="100"></a>
-  
+
+[Unity home](https://unity.com) - An overview of Unity, one of the most popular development platforms.
 
 [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit)
 
@@ -75,10 +76,12 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 ## Unreal Engine
 <a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="100"></a>
 
+[Unreal Engine home](https://www.unrealengine.com/en-US)
+
 ## WebXR
 <a href="https://immersiveweb.dev/"><img src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR" height="100"></a>
 
-[WebXR Documentation/Introduction](https://immersiveweb.dev/)
+[WebXR home](https://immersiveweb.dev/)
 
 [A-Frame](https://aframe.io/)
 
@@ -92,31 +95,29 @@ https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environm
 
 ## Windows Mixed Reality Toolkit
 <a href="https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05"><img src="https://lh5.googleusercontent.com/n3CzfFes1xQHqpIwhZzBRN6KTI13oF6jcXeejArEOdKcATaOJ3_F97TtpU5u5mENyBxV94HHWvfej4pbytPQMocgwO2ulrH1-a-ckcgkaccSuWnuNKBbMVJy_UwXeWugmQjtt5ec=s0" alt="Windows Mixed Reality" height="100"></a>
-  
+ 
+[MRTK home](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05)
 
-[Accessible Mixed Reality Project](https://www.microsoft.com/en-us/research/project/accessible-mixed-realityanast/)
-
-Windows Mixed Reality Documentation
-  
+[Accessible Mixed Reality Project](https://www.microsoft.com/en-us/research/project/accessible-mixed-realityanast/)  
 
 
 # Developer Communities
 
   
 
-[XR Access](https://xraccess.org/): A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. Join their [Slack](https://bit.ly/xraccess-slack) here.
+[XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. Join their [Slack](https://bit.ly/xraccess-slack) here.
 
   
 
-[HoloDevelopers](https://holodevelopersslack.azurewebsites.net/): A Slack community focused on HoloLens development. See the #accessibility channel.
+[HoloDevelopers](https://holodevelopersslack.azurewebsites.net/) - A Slack community focused on HoloLens development. See the #accessibility channel.
 
   
 
-[MIT Reality Hack](https://www.mitrealityhack.com/): Reality Hack is an annual community-run XR hackathon composed of thought leaders, brand mentors and creators, participants, students, and technology lovers, who come together and attend tech workshops, talks, discussions, fireside chats, collaborations, hacking, and more.
+[MIT Reality Hack](https://www.mitrealityhack.com/) -  Reality Hack is an annual community-run XR hackathon composed of thought leaders, brand mentors and creators, participants, students, and technology lovers, who come together and attend tech workshops, talks, discussions, fireside chats, collaborations, hacking, and more.
 
   
 
-[Equal Entry AR/VR/XR:](https://equalentry.com/category/ar-vr-xr/) Equal Entry is a consultancy dedicated to technological accessibility. Their XR blog features a number of presentations from the associated [A11yVR Meetup](https://www.meetup.com/a11yvr/) as well as some experiments in WebXR accessibility, such as [Interacting with Objects in an Inclusive Virtual Environment](https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/). 
+[Equal Entry AR/VR/XR](https://equalentry.com/category/ar-vr-xr/) - Equal Entry is a consultancy dedicated to technological accessibility. Their XR blog features a number of presentations from the associated [A11yVR Meetup](https://www.meetup.com/a11yvr/) as well as some experiments in WebXR accessibility, such as [Interacting with Objects in an Inclusive Virtual Environment](https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/). 
 
   
   
@@ -126,14 +127,26 @@ Windows Mixed Reality Documentation
 
   
 
-[Forward for Good](https://www.verizonforwardforgood.com/) is an accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st.
+[Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st.
 
-[WalkinVRDriver](https://www.walkinvrdriver.com/) is software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
+[WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
 
+[Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
+
+[Accessibility Unlocked[(https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
+
+[What I Know About: Being Sick at Work](https://blog.bonnieeisenman.com/blog/being-sick-at-work/) - Advice on how to go about discussing accessibility and accommodations in the workplace.
+
+# User Testing
+Some organizations that may be able to support user testing by people with disabilities:
+
+[Fable](https://makeitfable.com/)
+[AbleGamers Player Panels](https://ablegamers.org/player-panels/)
+[Open Inclusion](https://openinclusion.com/)
   
 
 # How to Contribute
 
   
 
-To contribute to the XRAccessibility Project, fill out the following [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does.
+To contribute to the XRAccessibility Project, fill out the following [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does. All submissions will be reviewed for clarity, functionality, and usefulness prior to inclusion on this site.
