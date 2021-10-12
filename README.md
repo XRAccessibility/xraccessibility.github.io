@@ -1,4 +1,7 @@
-![XRAssociation + XRAccess Combined Logo smaller](https://user-images.githubusercontent.com/89936733/137009786-a53cd80a-4f20-4c8c-9f43-aa3ba6bc4e05.png)
+
+<img src="https://user-images.githubusercontent.com/89936733/137009786-a53cd80a-4f20-4c8c-9f43-aa3ba6bc4e05.png" alt="XRAssociation + XRAccess Combined Logo smaller" >
+
+
 # XRAccessibility Project Overview
 The XRAccessibility Project is an initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms. We were inspired by developers, key players in ensuring that this technology is accessible, who reported challenges in finding accessible code snippets. Here are some of its features:
 
@@ -16,9 +19,9 @@ The XRAccessibility Project is an initiative driven by the XR Association and XR
 | ARCore                	| Android                                                                      	|
 | ARKit                 	| iOS                                                                          	|
 | LuminOS               	| Magicleap                                                                    	|
-| Unity                 	| Oculus Quest<br>(ALL)<br>Microsoft HoloLens<br>Vive                          	|
-| Unreal                	| Oculus Quest<br>(ALL)<br>Microsoft HoloLens<br>Vive                          	|
-| WebXR                 	| Microsoft HoloLens 2<br>Windows Mixed Reality headsets                       	|
+| Unity                 	| Many                          	|
+| Unreal                	| Many                          	|
+| WebXR                 	| Web browsers                       	|
 | Windows Mixed Reality 	| Microsoft HoloLens<br>Microsoft HoloLens 2<br>Windows Mixed Reality headsets 	|
 
 
@@ -101,11 +104,11 @@ Windows Mixed Reality Documentation
 
   
 
-[XR Access](https://xraccess.org/): A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.
+[XR Access](https://xraccess.org/): A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. Join their [Slack](https://bit.ly/xraccess-slack) here.
 
   
 
-[HoloDevelopers](https://holodevelopersslack.azurewebsites.net/): A Mixed-Reality-Toolkit on Slack with a channel on accessibility.
+[HoloDevelopers](https://holodevelopersslack.azurewebsites.net/): A Slack community focused on HoloLens development. See the #accessibility channel.
 
   
 
@@ -113,7 +116,7 @@ Windows Mixed Reality Documentation
 
   
 
-[Equal Entry:](https://equalentry.com/category/ar-vr-xr/)
+[Equal Entry AR/VR/XR:](https://equalentry.com/category/ar-vr-xr/) Equal Entry is a consultancy dedicated to technological accessibility. Their XR blog features a number of presentations from the associated [A11yVR Meetup](https://www.meetup.com/a11yvr/) as well as some experiments in WebXR accessibility, such as [Interacting with Objects in an Inclusive Virtual Environment](https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/). 
 
   
   
@@ -123,9 +126,9 @@ Windows Mixed Reality Documentation
 
   
 
-[Forward for Good](https://www.verizonforwardforgood.com/)
+[Forward for Good](https://www.verizonforwardforgood.com/) is an accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st.
 
-[WalkinVRDriver](https://www.walkinvrdriver.com/)
+[WalkinVRDriver](https://www.walkinvrdriver.com/) is software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
 
   
 
@@ -133,4 +136,4 @@ Windows Mixed Reality Documentation
 
   
 
-To contribute to the XRAccessibility Project, fill out the following [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to actively deploy a solution to understand what it does.
+To contribute to the XRAccessibility Project, fill out the following [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does.
