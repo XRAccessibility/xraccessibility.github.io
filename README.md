@@ -1,4 +1,6 @@
 
+
+
 <img src="https://user-images.githubusercontent.com/89936733/137009786-a53cd80a-4f20-4c8c-9f43-aa3ba6bc4e05.png" alt="XRAssociation + XRAccess Combined Logo smaller" >
 
 
@@ -30,97 +32,107 @@ The XRAccessibility Project is an initiative driven by the XR Association and XR
 If you’re new to XR and Accessibility, then check out these resources for concepts and ideas:
 
 [XRA’s Developers Guide, Chapter Three](https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/): Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities.
+
+> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
     
 [XR Access Resources](http://xraccess.org/resources/): The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all.
+> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
     
 [A11yVR on YouTube](https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog): This channel is a compilation of videos presentations and recordings of meetups where people discuss accessibility in technology for people with disabilities that apply to XR/VR/AR.  
+
+> <img src="https://i.imgur.com/t79JlZ5.png" alt="A11yVR YouTube" width=50% >
+
+
 
 # Platform Solutions
 ## ARCore  
 
 <a href="https://developers.google.com/ar"><img src="https://lh5.googleusercontent.com/LUJl3XvZqfOZ_xXXijUpITswTFnl1w8fzRC4VVw3EiCy21uiJvvZftxrr_GvJEGDYjQBhtPCZLH6FQWec2TYHs4pPLVKnOZr4txM4BwsrsWxY-1tF_0YspVvVGS--U9MRoeVwVrH=s0" alt="ARCore" height="100"></a>
 
-[ARCore home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
+ - [ARCore home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
 
 
 
 ## ARKit
 
 <a href="https://developer.apple.com/augmented-reality/arkit/"><img src="https://lh3.googleusercontent.com/N1pUTIqcv9JUqgpaOCj1REfepYnuWr8z_NxY1scNuBHrTtlXdmxOXdJjKXdyMu-xj9AzfGbr74BXAMbS4q-ZS6GB-SLvXilmx4Othe5Bf8WhJbSuMZAI1wgBp-9ys9sDKf_4iB_5=s0" alt="ARKit" height="100"></a>
-[ARKit home](https://developer.apple.com/augmented-reality/arkit/) - An overview of ARKit, Apple's development toolkit for iOS.
-[Apple’s ARKit Documentation](https://developer.apple.com/documentation/arkit) - Development details for ARKit.
+ - [ARKit home](https://developer.apple.com/augmented-reality/arkit/) - An overview of ARKit, Apple's development toolkit for iOS.
+
+ - [Apple’s ARKit Documentation](https://developer.apple.com/documentation/arkit) - Development details for ARKit.
 
 ## Lumin OS
 
 <a href="https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview"><img src="https://lh5.googleusercontent.com/DXsv8lzxvge2KjYrjdFGO_fpxNzgcsFFe9I7atY__ArnbSABB-CUJj2TQTNOZk3EveVg90rIEjth5y0Yt2fx6m0cLyzvBvrPvYpqAbZ5mgJOP-ae1lXBGz7JxPv-F7LhgpGvYUp3=s0" alt="Lumin OS" height="100"></a>
   
 
-[Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview) - An overview of Lumin OS, the operating developed by Magic Leap for their augmented reality devices.
+ - [Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview) - An overview of Lumin OS, the operating developed by Magic Leap for their augmented reality devices.
 
 ## Unity
 
 <a href="https://unity.com/"><img src="https://lh5.googleusercontent.com/-EP7EuF1yeBoIbMEa4GXgbjCS_xmRa5cRvzcGcFoD-duaIwWY1w1am95h8jf9s1iWyymykJBkTCC8yTzVPqg7iIA0QFFHFtSH-oZNJPFfsfYh9hFueBWzbpUroqsk7peri-q7tLw=s0" alt="Unity" height="100"></a>
 
-[Unity home](https://unity.com) - An overview of Unity, one of the most popular development platforms.
+ - [Unity home](https://unity.com) - An overview of Unity, one of the most popular development platforms.
 
-[SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit)
+ - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
 
-[Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
+ - [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit)
 
-[Unity Documentation - VisionUtility.GetColorBlindSafePalette](https://docs.unity3d.com/ScriptReference/Accessibility.VisionUtility.GetColorBlindSafePalette.html)
+ - [Unity Documentation - VisionUtility.GetColorBlindSafePalette](https://docs.unity3d.com/ScriptReference/Accessibility.VisionUtility.GetColorBlindSafePalette.html)
 
-[MRTK 2.7 Integration Guide for Unity 2020.2.x/MLSDK 0.25.0](https://github.com/magicleap/MRTK-MagicLeap)
+ - [MRTK 2.7 Integration Guide for Unity 2020.2.x/MLSDK 0.25.0](https://github.com/magicleap/MRTK-MagicLeap)
 
-[Unity Tutorials](https://learn.unity.com/)
+ - [Unity Tutorials](https://learn.unity.com/)
 
   
 ## Unreal Engine
 <a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="100"></a>
 
-[Unreal Engine home](https://www.unrealengine.com/en-US)
+ - [Unreal Engine home](https://www.unrealengine.com/en-US)
 
 ## WebXR
 <a href="https://immersiveweb.dev/"><img src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR" height="100"></a>
 
-[WebXR home](https://immersiveweb.dev/)
+ - [WebXR home](https://immersiveweb.dev/)
 
-[A-Frame](https://aframe.io/)
+ - [A-Frame](https://aframe.io/)
 
-[AccessibleLocomotionWebXR](https://github.com/rdub80/aframe-binary-controls)
+ - [AccessibleLocomotionWebXR](https://github.com/rdub80/aframe-binary-controls)
 
-[Aframe Meetup NYC](https://roland-dubois.github.io/aframe-meetup-nyc/)
+ - [Aframe Meetup NYC](https://roland-dubois.github.io/aframe-meetup-nyc/)
 
-https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/
+ - https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/
 
   
 
 ## Windows Mixed Reality Toolkit
 <a href="https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05"><img src="https://lh5.googleusercontent.com/n3CzfFes1xQHqpIwhZzBRN6KTI13oF6jcXeejArEOdKcATaOJ3_F97TtpU5u5mENyBxV94HHWvfej4pbytPQMocgwO2ulrH1-a-ckcgkaccSuWnuNKBbMVJy_UwXeWugmQjtt5ec=s0" alt="Windows Mixed Reality" height="100"></a>
  
-[MRTK home](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05)
+ - [MRTK home](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05)
 
-[Accessible Mixed Reality Project](https://www.microsoft.com/en-us/research/project/accessible-mixed-realityanast/)  
+ - [Accessible Mixed Reality Project](https://www.microsoft.com/en-us/research/project/accessible-mixed-realityanast/)  
 
 
 # Developer Communities
 
   
 
-[XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. Join their [Slack](https://bit.ly/xraccess-slack) here.
+ - [XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. See their [Slack](https://bit.ly/xraccess-slack) and [Github](https://github.com/XR-Access-Initiative) or [apply for membership](https://bit.ly/xraccess-interest).
 
   
 
-[HoloDevelopers](https://holodevelopersslack.azurewebsites.net/) - A Slack community focused on HoloLens development. See the #accessibility channel.
+ - [HoloDevelopers](https://holodevelopersslack.azurewebsites.net/) - A Slack community focused on HoloLens development. See the #accessibility channel.
 
   
 
-[MIT Reality Hack](https://www.mitrealityhack.com/) -  Reality Hack is an annual community-run XR hackathon composed of thought leaders, brand mentors and creators, participants, students, and technology lovers, who come together and attend tech workshops, talks, discussions, fireside chats, collaborations, hacking, and more.
+ - [MIT Reality Hack](https://www.mitrealityhack.com/) -  Reality Hack is an annual community-run XR hackathon composed of thought leaders, brand mentors and creators, participants, students, and technology lovers, who come together and attend tech workshops, talks, discussions, fireside chats, collaborations, hacking, and more.
 
   
 
-[Equal Entry AR/VR/XR](https://equalentry.com/category/ar-vr-xr/) - Equal Entry is a consultancy dedicated to technological accessibility. Their XR blog features a number of presentations from the associated [A11yVR Meetup](https://www.meetup.com/a11yvr/) as well as some experiments in WebXR accessibility, such as [Interacting with Objects in an Inclusive Virtual Environment](https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/). 
+ - [Equal Entry AR/VR/XR](https://equalentry.com/category/ar-vr-xr/) - Equal Entry is a consultancy dedicated to technological accessibility. Their XR blog features a number of presentations from the associated [A11yVR Meetup](https://www.meetup.com/a11yvr/) as well as some experiments in WebXR accessibility, such as [Interacting with Objects in an Inclusive Virtual Environment](https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/). 
 
-  
+ - [IGDA Game Accessibility Special Interest Group (IGDA-GASIG)](https://igda-gasig.org/)  - A group of developers dedicated to gaming accessibility, with frequent forays into XR. Be sure to watch the Game Developers Conference 2021 videos on the [IGDA-GASIG YouTube Channel.](https://www.youtube.com/channel/UCKWG26bBd7TOiaLtc_crqvw)
+
+ - [W3C Immersive Captions Community Group](https://www.w3.org/community/immersive-captions/) - A community group of the W3C devoted to determining best practices for captions in immersive environments. Frequently includes exploration of prototypes.
   
   
 
@@ -128,24 +140,29 @@ https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environm
 
   
 
-[Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st.
+ - [Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st. 
 
-[WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
+ - [WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
 
-[Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
+ - [Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
 
-[Accessibility Unlocked[(https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
+ - [Accessibility Unlocked](https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
 
-[What I Know About: Being Sick at Work](https://blog.bonnieeisenman.com/blog/being-sick-at-work/) - Advice on how to go about discussing accessibility and accommodations in the workplace.
+ - [What I Know About: Being Sick at Work](https://blog.bonnieeisenman.com/blog/being-sick-at-work/) - Advice on how to go about discussing accessibility and accommodations in the workplace.
 
 # User Testing
 Some organizations that may be able to support user testing by people with disabilities:
 
-[Fable](https://makeitfable.com/)
+ - [Fable](https://makeitfable.com/)
 
-[AbleGamers Player Panels](https://ablegamers.org/player-panels/)
+ - [AbleGamers Player Panels](https://ablegamers.org/player-panels/)
 
-[Open Inclusion](https://openinclusion.com/)
+ - [Open Inclusion](https://openinclusion.com/)
+  
+  # Additional Resources
+ -   [The Locomotion Vault](https://locomotionvault.github.io/) - A database of all known locomotion methods in virtual reality. Allows sorting by accessibility and many other factors.
+
+> <img src="https://i.imgur.com/mDNOecA.png" alt="Locomotion Vault screenshot shows a number of locomotion techniques mapped, demonstrated, and filtered."> 
   
 
 # How to Contribute
