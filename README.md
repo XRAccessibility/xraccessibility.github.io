@@ -37,6 +37,7 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 # Platform Solutions
 ## ARCore  
+
 <a href="https://developers.google.com/ar"><img src="https://lh5.googleusercontent.com/LUJl3XvZqfOZ_xXXijUpITswTFnl1w8fzRC4VVw3EiCy21uiJvvZftxrr_GvJEGDYjQBhtPCZLH6FQWec2TYHs4pPLVKnOZr4txM4BwsrsWxY-1tF_0YspVvVGS--U9MRoeVwVrH=s0" alt="ARCore" height="100"></a>
 
 [ARCore home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
@@ -141,7 +142,9 @@ https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environm
 Some organizations that may be able to support user testing by people with disabilities:
 
 [Fable](https://makeitfable.com/)
+
 [AbleGamers Player Panels](https://ablegamers.org/player-panels/)
+
 [Open Inclusion](https://openinclusion.com/)
   
 
