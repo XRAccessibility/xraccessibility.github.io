@@ -33,21 +33,21 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 [XRA’s Developers Guide, Chapter Three](https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/): Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities.
 
-> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
+<a href="https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/"> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
     
 [XR Access Resources](http://xraccess.org/resources/): The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all.
-> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
+<a href="http://xraccess.org/resources/"> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
     
 [A11yVR on YouTube](https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog): This channel is a compilation of videos presentations and recordings of meetups where people discuss accessibility in technology for people with disabilities that apply to XR/VR/AR.  
 
-> <img src="https://i.imgur.com/t79JlZ5.png" alt="A11yVR YouTube" width=50% >
+<a href="https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog"> <img src="https://i.imgur.com/t79JlZ5.png" alt="A11yVR YouTube" width=50% >
 
 
 
 # Platform Solutions
 ## ARCore  
 
-<a href="https://developers.google.com/ar"><img src="https://lh5.googleusercontent.com/LUJl3XvZqfOZ_xXXijUpITswTFnl1w8fzRC4VVw3EiCy21uiJvvZftxrr_GvJEGDYjQBhtPCZLH6FQWec2TYHs4pPLVKnOZr4txM4BwsrsWxY-1tF_0YspVvVGS--U9MRoeVwVrH=s0" alt="ARCore" height="100"></a>
+<a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/89936733/137200291-5775b011-d0b9-4fd7-bebb-d2a1233abd8b.png" alt="ARCore" height="150"></a>
 
  - [ARCore home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
 
@@ -55,21 +55,21 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 ## ARKit
 
-<a href="https://developer.apple.com/augmented-reality/arkit/"><img src="https://lh3.googleusercontent.com/N1pUTIqcv9JUqgpaOCj1REfepYnuWr8z_NxY1scNuBHrTtlXdmxOXdJjKXdyMu-xj9AzfGbr74BXAMbS4q-ZS6GB-SLvXilmx4Othe5Bf8WhJbSuMZAI1wgBp-9ys9sDKf_4iB_5=s0" alt="ARKit" height="100"></a>
+<a href="https://developer.apple.com/augmented-reality/arkit/"><img src="https://user-images.githubusercontent.com/89936733/137200442-efd532ff-8445-443b-acfa-6b4357b89fdb.png" alt="ARKit" height="150"></a>
  - [ARKit home](https://developer.apple.com/augmented-reality/arkit/) - An overview of ARKit, Apple's development toolkit for iOS.
 
  - [Apple’s ARKit Documentation](https://developer.apple.com/documentation/arkit) - Development details for ARKit.
 
 ## Lumin OS
 
-<a href="https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview"><img src="https://lh5.googleusercontent.com/DXsv8lzxvge2KjYrjdFGO_fpxNzgcsFFe9I7atY__ArnbSABB-CUJj2TQTNOZk3EveVg90rIEjth5y0Yt2fx6m0cLyzvBvrPvYpqAbZ5mgJOP-ae1lXBGz7JxPv-F7LhgpGvYUp3=s0" alt="Lumin OS" height="100"></a>
+<a href="https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview"><img src="https://user-images.githubusercontent.com/89936733/137200613-2c509311-dd7d-46f8-8afa-481973bee3be.png" alt="Lumin OS" height="150"></a>
   
 
  - [Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview) - An overview of Lumin OS, the operating developed by Magic Leap for their augmented reality devices.
 
 ## Unity
 
-<a href="https://unity.com/"><img src="https://lh5.googleusercontent.com/-EP7EuF1yeBoIbMEa4GXgbjCS_xmRa5cRvzcGcFoD-duaIwWY1w1am95h8jf9s1iWyymykJBkTCC8yTzVPqg7iIA0QFFHFtSH-oZNJPFfsfYh9hFueBWzbpUroqsk7peri-q7tLw=s0" alt="Unity" height="100"></a>
+<a href="https://unity.com/"><img src="https://user-images.githubusercontent.com/89936733/137200705-e27de27e-2371-4661-9522-8610a4d5058d.png" alt="Unity" height="150"></a>
 
  - [Unity home](https://unity.com) - An overview of Unity, one of the most popular development platforms.
 
@@ -85,12 +85,12 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
   
 ## Unreal Engine
-<a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="100"></a>
+<a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="120"></a>
 
  - [Unreal Engine home](https://www.unrealengine.com/en-US)
 
 ## WebXR
-<a href="https://immersiveweb.dev/"><img src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR" height="100"></a>
+<a href="https://immersiveweb.dev/"><img src="https://user-images.githubusercontent.com/89936733/137200812-c7297fe5-5535-4c90-9309-ecadf85b7473.png" alt="WebXR" height="150"></a>
 
  - [WebXR home](https://immersiveweb.dev/)
 
@@ -105,7 +105,7 @@ If you’re new to XR and Accessibility, then check out these resources for conc
   
 
 ## Windows Mixed Reality Toolkit
-<a href="https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05"><img src="https://lh5.googleusercontent.com/n3CzfFes1xQHqpIwhZzBRN6KTI13oF6jcXeejArEOdKcATaOJ3_F97TtpU5u5mENyBxV94HHWvfej4pbytPQMocgwO2ulrH1-a-ckcgkaccSuWnuNKBbMVJy_UwXeWugmQjtt5ec=s0" alt="Windows Mixed Reality" height="100"></a>
+<a href="https://user-images.githubusercontent.com/89936733/137200859-bf918dcb-7266-4a73-aeb8-f6e0976dedf4.png"><img src="https://user-images.githubusercontent.com/89936733/137201592-d4c31a14-d753-4d6f-8974-3138df426929.png" alt="Windows Mixed Reality" height="150"></a>
  
  - [MRTK home](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05)
 
