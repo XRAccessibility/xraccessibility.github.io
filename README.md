@@ -33,14 +33,15 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 [XRA’s Developers Guide, Chapter Three](https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/): Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities.
 
-<a href="https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/"> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
+> <a href="https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/"> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
     
 [XR Access Resources](http://xraccess.org/resources/): The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all.
-<a href="http://xraccess.org/resources/"> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
+ 
+> <a href="http://xraccess.org/resources/"> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
     
 [A11yVR on YouTube](https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog): This channel is a compilation of videos presentations and recordings of meetups where people discuss accessibility in technology for people with disabilities that apply to XR/VR/AR.  
 
-<a href="https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog"> <img src="https://i.imgur.com/t79JlZ5.png" alt="A11yVR YouTube" width=50% >
+> <a href="https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog"> <img src="https://i.imgur.com/t79JlZ5.png" alt="A11yVR YouTube" width=50% >
 
 
 
