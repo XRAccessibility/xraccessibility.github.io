@@ -37,9 +37,9 @@ To contribute to the XRAccessibility Project, fill out the following [resources 
  Suggestions will be reviewed on the basis of clarity, functionality, and usefulness.
  
  - Clarity: is it clear what the resource does?
- - 
+ 
  - Functionality: does the resource work? Is it regularly updated?
- - 
+ 
  - Usefulness: is the resource useful to developers?
 
 
