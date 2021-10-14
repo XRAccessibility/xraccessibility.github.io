@@ -1,20 +1,22 @@
 
 
 
+
 <img src="https://user-images.githubusercontent.com/89936733/137009786-a53cd80a-4f20-4c8c-9f43-aa3ba6bc4e05.png" alt="XRAssociation + XRAccess Combined Logo smaller" >
 
 
 # XRAccessibility Project Overview
-The XRAccessibility Project is an initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms. We were inspired by developers, key players in ensuring that this technology is accessible, who reported challenges in finding accessible code snippets. Here are some of its features:
+The XRAccessibility Project is an initiative driven by the [XR Association](https://xra.org/) and [XR Access](https://xraccess.org) to provide a central place for developers to find solutions for creating accessible code across various XR platforms. We were inspired by developers, key players in ensuring that this technology is accessible, who reported challenges in finding accessible code snippets. It features:
 
- - Provides **strategies, code, and tutorials** to solve accessibility
-   concerns across a wide range of platforms 
+ - **Strategies, code, and tutorials** to solve accessibility concerns across a wide range of platforms 
 
- - Includes an **index** that points to resources all over the internet, organized by platform
+ - An **index** that points to resources all over the internet, organized by platform
    
-  - **Validates** resource usability and functionality
+  - **Validation** of resource usability and functionality
  
- - Features a **contribution form** for adding links to additional resources to this project
+ - A [**contribution form**](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link) for adding additional resources to this project
+
+## Featured Platforms
 
 | Platform              	| Supported Devices                                                            	|
 |-----------------------	|------------------------------------------------------------------------------	|
@@ -26,6 +28,19 @@ The XRAccessibility Project is an initiative driven by the XR Association and XR
 | WebXR                 	| Web browsers                       	|
 | Windows Mixed Reality 	| Microsoft HoloLens<br>Microsoft HoloLens 2<br>Windows Mixed Reality headsets 	|
 
+## How to Contribute
+
+The XRAccessibility Project is **open source**. If you know of resources that other developers could benefit from, please share them!
+
+To contribute to the XRAccessibility Project, fill out the following [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does. 
+ 
+ Suggestions will be reviewed on the basis of clarity, functionality, and usefulness.
+ 
+ - Clarity: is it clear what the resource does?
+ - 
+ - Functionality: does the resource work? Is it regularly updated?
+ - 
+ - Usefulness: is the resource useful to developers?
 
 
 # General Resources to Help You Get Started
@@ -68,27 +83,32 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
  - [Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview) - An overview of Lumin OS, the operating developed by Magic Leap for their augmented reality devices.
 
+ - [MRTK 2.7 Integration Guide for Unity 2020.2.x/MLSDK 0.25.0](https://github.com/magicleap/MRTK-MagicLeap) - Adds compatibility for the Magic Leap platform to the Mixed Reality Toolkit.
+
 ## Unity
 
 <a href="https://unity.com/"><img src="https://user-images.githubusercontent.com/89936733/137200705-e27de27e-2371-4661-9522-8610a4d5058d.png" alt="Unity" height="150"></a>
 
- - [Unity home](https://unity.com) - An overview of Unity, one of the most popular development platforms.
+ - [Unity home](https://unity.com) - An overview of Unity, one of the most popular 3D development platforms.
 
- - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
+ - [Unity Tutorials](https://learn.unity.com/) - Unity's suite of tutorials. Look for the "XR Development" category.
 
- - [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit)
+ - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin) - A Unity plugin that brings screen reader functionality to Unity applications. Supports Android, iOS, Windows, Mac, and WebGL up to Unity 2020.1. *Note: may require additional development to work with XR headsets.*
 
- - [Unity Documentation - VisionUtility.GetColorBlindSafePalette](https://docs.unity3d.com/ScriptReference/Accessibility.VisionUtility.GetColorBlindSafePalette.html)
+ - [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit) - A Unity project featuring a suite of low-vision tools, including magnification, contrast enhancement, remapping, text augmentation, text to speech, and more. *Note: has not been updated since 2019.*
 
- - [MRTK 2.7 Integration Guide for Unity 2020.2.x/MLSDK 0.25.0](https://github.com/magicleap/MRTK-MagicLeap)
+ - [Unity Documentation - Vision Utility](https://docs.unity3d.com/ScriptReference/Accessibility.VisionUtility.html) - A Unity class containing methods to assist with accessibility for users with different vision capabilities. Currently includes one method: Get Color Blind Safe Palette.
 
- - [Unity Tutorials](https://learn.unity.com/)
 
   
 ## Unreal Engine
 <a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="120"></a>
 
- - [Unreal Engine home](https://www.unrealengine.com/en-US)
+ - [Unreal Engine home](https://www.unrealengine.com/en-US) - An overview of Unreal Engine, Unity's main competitor and a powerful 3D development platform.
+
+ - [Unreal XR Development](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/XRDevelopment/) - A guide to setting up Unreal for XR development.
+
+ - [Introduction to Accessible Design with Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-accessible-design-with-unreal-engine) - A tutorial course on how to develop accessible applications using Unreal.
 
 ## WebXR
 <a href="https://immersiveweb.dev/"><img src="https://user-images.githubusercontent.com/89936733/137200812-c7297fe5-5535-4c90-9309-ecadf85b7473.png" alt="WebXR" height="150"></a>
@@ -139,13 +159,15 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 # Resources for Disabled Developers
 
-  
+## Development Tools
+ 
+  - [Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
+ 
+  - [WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
+ 
+## Organizations and Articles
 
  - [Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st. 
-
- - [WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
-
- - [Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
 
  - [Accessibility Unlocked](https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
 
@@ -166,8 +188,3 @@ Some organizations that may be able to support user testing by people with disab
 > <img src="https://i.imgur.com/mDNOecA.png" alt="Locomotion Vault screenshot shows a number of locomotion techniques mapped, demonstrated, and filtered."> 
   
 
-# How to Contribute
-
-  
-
-To contribute to the XRAccessibility Project, fill out the following [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does. All submissions will be reviewed for clarity, functionality, and usefulness prior to inclusion on this site.
