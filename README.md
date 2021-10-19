@@ -38,6 +38,7 @@ Submissions should preferably include a video demonstration and/or a text walk-t
 
  - **Usefulness**: does the resource provide useful code snippets or otherwise help developers?
 
+For other comments and suggestions, feel free to [file an issue](https://github.com/XRAccessibility/xraccessibility.github.io/issues) using Github.
 
 # General Resources to Help You Get Started
 If you’re new to XR and Accessibility, then check out these resources for concepts and ideas:
