@@ -1,20 +1,15 @@
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/89936733/137009786-a53cd80a-4f20-4c8c-9f43-aa3ba6bc4e05.png" alt="XRAssociation + XRAccess Combined Logo smaller" >
 
 
 # XRAccessibility Project Overview
 The XRAccessibility Project is an initiative driven by the [XR Association](https://xra.org/) and [XR Access](https://xraccess.org) to provide a central place for developers to find solutions for creating accessible code across various XR platforms. We were inspired by developers, key players in ensuring that this technology is accessible, who reported challenges in finding accessible code snippets. It features:
 
- - **Strategies, code, and tutorials** to solve accessibility concerns across a wide range of platforms 
+ - **Strategies, code, and tutorials** to solve accessibility concerns across a wide range of platforms
 
  - An **index** that points to resources all over the internet, organized by platform
-   
+
   - **Validation** of resource usability and functionality
- 
+
  - A [**contribution form**](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link) for adding additional resources to this project
 
 ## Featured Platforms
@@ -36,11 +31,11 @@ The XRAccessibility Project is **open source**. If you know of resources that ot
 To contribute to the XRAccessibility Project, fill out our [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  
 
 Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does.  Suggestions will be reviewed on the basis of clarity, functionality, and usefulness.
- 
+
  - **Clarity**: is it clear what the resource does? Does it come with a demo or video?
- 
+
  - **Functionality**: does the resource work? Is it regularly updated and maintained?
- 
+
  - **Usefulness**: does the resource provide useful code snippets or otherwise help developers?
 
 
@@ -50,19 +45,19 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 [XRA’s Developers Guide, Chapter Three](https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/): Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities.
 
 > <a href="https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/"> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
-    
+
 [XR Access Resources](http://xraccess.org/resources/): The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all.
- 
+
 > <a href="http://xraccess.org/resources/"> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
 
-    
+
 [A11yVR on YouTube](https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog): This channel is a compilation of videos presentations and recordings of meetups where people discuss accessibility in technology for people with disabilities that apply to XR/VR/AR.  
 
 > <a href="https://www.youtube.com/channel/UCqhCc1b6Cq69eg-iYeVKOog"> <img src="https://i.imgur.com/t79JlZ5.png" alt="A11yVR YouTube" width=50% >
 
 ## Additional Accessibility Guidelines
  - [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A reference for inclusive game design, flexible enough to accommodate XR applications.
- 
+
  - [Oculus - Designing Accessible VR Experiences](https://developer.oculus.com/resources/design-accessible-vr/) - A set of guidelines for designing accessible VR experiences. Includes sections on UX and UI, controls, movement, display, app design, audio, and captions.
 
  - [Magic Leap - Best Practices for Accessibility](https://developer.magicleap.com/en-us/learn/guides/bp-for-accessibility) - A collection of best practices for designing accessible AR experiences. Includes sections on hearing, subtitles, visual, and mobility.
@@ -90,7 +85,7 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 ## Lumin OS
 
 <a href="https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview"><img src="https://user-images.githubusercontent.com/89936733/137200613-2c509311-dd7d-46f8-8afa-481973bee3be.png" alt="Lumin OS" height="150"></a>
-  
+
 
  - [Lumin OS Overview](https://developer.magicleap.com/en-us/learn/guides/lumin-os-overview) - An overview of Lumin OS, the operating developed by Magic Leap for their augmented reality devices.
 
@@ -111,7 +106,7 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [Unity Documentation - Vision Utility](https://docs.unity3d.com/ScriptReference/Accessibility.VisionUtility.html) - A Unity class containing methods to assist with accessibility for users with different vision capabilities. Currently includes one method: Get Color Blind Safe Palette.
 
 
-  
+
 ## Unreal Engine
 <a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="120"></a>
 
@@ -134,28 +129,28 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
  - [Interacting with Objects in an Inclusive Virtual Environment](https://equalentry.com/interacting-with-objects-in-an-inclusive-virtual-environment/) - An experiment in creating 3D object text alternatives using WebXR.
 
-  
+
 
 ## Windows Mixed Reality Toolkit
 <a href="https://user-images.githubusercontent.com/89936733/137200859-bf918dcb-7266-4a73-aeb8-f6e0976dedf4.png"><img src="https://user-images.githubusercontent.com/89936733/137201592-d4c31a14-d753-4d6f-8974-3138df426929.png" alt="Windows Mixed Reality" height="150"></a>
- 
+
  - [MRTK home](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/?view=mrtkunity-2021-05) - Overview of the Mixed Reality Toolkit (MRTK), a Microsoft-driven project that enables development for mixed reality applications in Unity.
  - [SignAR](https://github.com/eacooper/HoloLensSignARApp) - A HoloLens app for detecting, reading, and displaying text in the environment. See accompanying paper, [An Augmented Reality Sign-reading Assistant for Users with Reduced Vision.](http://www.emilyacooper.org/ewExternalFiles/2019Huang_PLOS_ann.pdf) *Note: Uses Unity 5.4.0f3*
 
 
 # Developer Communities
 
-  
+
 
  - [XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. See their [Slack](https://bit.ly/xraccess-slack) and [Github](https://github.com/XR-Access-Initiative) or [apply for membership](https://bit.ly/xraccess-interest).
 
  - [A11yVR Meetup](https://www.meetup.com/a11yvr/) - a Meetup for people who want to discuss topics around accessibility in technology for people with disabilities that apply to XR. Organized by Thomas Logan, founder of [Equal Entry](https://equalentry.com)
 
-  
+
 
  - [HoloDevelopers](https://holodevelopersslack.azurewebsites.net/) - A Slack community focused on HoloLens development. See the #accessibility channel.
 
-  
+
 
  - [MIT Reality Hack](https://www.mitrealityhack.com/) -  Reality Hack is an annual community-run XR hackathon composed of thought leaders, brand mentors and creators, participants, students, and technology lovers, who come together and attend tech workshops, talks, discussions, fireside chats, collaborations, hacking, and more.
 
@@ -166,20 +161,20 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [W3C Immersive Captions Community Group](https://www.w3.org/community/immersive-captions/) - A community group of the W3C devoted to determining best practices for captions in immersive environments. Frequently includes exploration of prototypes.
 
  - [Oculus Accessibility Development Forum](https://forums.oculusvr.com/t5/Accessibility-Development/bd-p/dev-accessibility) - A portion of the Oculus forums dedicated to accessibility.
-  
-  
+
+
 
 # Resources for Disabled Developers
 
 ## Development Tools
- 
+
   - [Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
- 
+
   - [WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
- 
+
 ## Organizations and Articles
 
- - [Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st. 
+ - [Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st.
 
  - [Accessibility Unlocked](https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
 
@@ -193,14 +188,14 @@ Some organizations that may be able to support user testing by people with disab
  - [AbleGamers Player Panels](https://ablegamers.org/player-panels/) - A community of players with disabilities ready to test games, facilitated by the AbleGamers charity.
 
  - [Open Inclusion](https://openinclusion.com/) - A UK-based inclusive research and solutions consultancy, specializing in accessible design.
- 
+
  - [XR Distributed Research Network]( https://www.xrdrn.org/) - An international platform for researchers to upload XR projects and find participants for them.
-  
+
   # Additional Resources
  -   [The Locomotion Vault](https://locomotionvault.github.io/) - A database of all known locomotion methods in virtual reality. Allows sorting by accessibility and many other factors.
 
-> <img src="https://i.imgur.com/mDNOecA.png" alt="Locomotion Vault screenshot shows a number of locomotion techniques mapped, demonstrated, and filtered."> 
+> <img src="https://i.imgur.com/mDNOecA.png" alt="Locomotion Vault screenshot shows a number of locomotion techniques mapped, demonstrated, and filtered.">
 
 -  [Accessible Mixed Reality Project](https://www.microsoft.com/en-us/research/project/accessible-mixed-realityanast/)  - A collection of research on how to design mixed reality (including AR and VR) so that they are usable by and useful to people of all abilities.
-  
+
  - [Gaze-Detection](https://github.com/charliegerard/gaze-detection) - A JavaScript machine learning library for creating gaze-controlled experiences.
