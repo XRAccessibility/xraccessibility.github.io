@@ -172,6 +172,9 @@ If you’re new to XR and Accessibility, then check out these resources for conc
   - [Osprey](https://github.com/osprey-voice/osprey) - An open-source, cross-platform voice typing program that allows you to use your computer and type with your voice. It can be used for coding, web browsing, dictating, or any other keyboard driven task.
 
   - [WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
+ 
+ - [Quha Zono](https://www.quha.com/products-2/zono/) - A gyroscopic, head-based mouse designed for people with motor disabilities.
+ 
 
 ## Organizations and Articles
 
