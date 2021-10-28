@@ -203,3 +203,8 @@ Some organizations that may be able to support user testing by people with disab
 -  [Accessible Mixed Reality Project](https://www.microsoft.com/en-us/research/project/accessible-mixed-realityanast/)  - A collection of research on how to design mixed reality (including AR and VR) so that they are usable by and useful to people of all abilities.
 
  - [Gaze-Detection](https://github.com/charliegerard/gaze-detection) - A JavaScript machine learning library for creating gaze-controlled experiences.
+ 
+ - [Wearable Interactions for Users with Motor Impairments](https://drive.google.com/file/d/1Gg7RL25fTNqrLl941SwgyIxe7OHZKaRM/view) - A systematic literature review of wearable interactions. Useful for determining which wearables and motions are accessible for people with motor impairments. Also see [video.](https://www.youtube.com/watch?v=TzhLGH5ilLo&ab_channel=ACMSIGACCESS)
+> <img src="https://i.imgur.com/3f0FfDk.png" alt="Interactions with wearables" width=50%>
+ 
+ - [Equal Entry AR/VR/XR Articles](https://equalentry.com/category/ar-vr-xr/) - A collection of articles from Equal Entry about XR accessibility.
