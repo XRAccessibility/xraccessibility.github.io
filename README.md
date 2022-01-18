@@ -112,13 +112,15 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 
 ## Unreal Engine
-<a href="https://www.unrealengine.com/en-US/"><img src="https://www.screenskillsireland.ie/wp-content/uploads/2020/06/UE_Logo_Horizontal_Black.png" alt="Unreal Engine" height="120"></a>
+<a href="https://www.unrealengine.com/en-US/"><img src="https://download.logo.wine/logo/Unreal_Engine/Unreal_Engine-Logo.wine.png" alt="Unreal Engine" height="120"></a>
 
  - [Unreal Engine home](https://www.unrealengine.com/en-US) - An overview of Unreal Engine, Unity's main competitor and a powerful 3D development platform.
 
  - [Unreal XR Development](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/XRDevelopment/) - A guide to setting up Unreal for XR development.
 
  - [Introduction to Accessible Design with Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-accessible-design-with-unreal-engine) - A tutorial course on how to develop accessible applications using Unreal.
+ 
+ - [Accessible Realities](http://accessiblerealities.com/blog/) - A project by Zohar Gan to implement a number of accessible behaviors in XR using Unreal Engine. 
 
 ## WebXR
 <a href="https://immersiveweb.dev/"><img src="https://user-images.githubusercontent.com/89936733/137200812-c7297fe5-5535-4c90-9309-ecadf85b7473.png" alt="WebXR" height="150"></a>
