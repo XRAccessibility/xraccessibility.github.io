@@ -47,6 +47,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 > <a href="https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/"> <img src="https://xra.org/wp-content/uploads/2020/10/Chapter-3-Cover-1-e1603756223994.png" width=50% alt="XR Association Developers Guide">
 
+[PEAT - Inclusive XR in the Workforce](https://www.peatworks.org/futureofwork/xr/inclusiveworkplacexr/): This resource will help anyone who wants to use immersive technologies in the workplace. Each section will help organizations to ensure the immersive technologies they adopt are accessible for all.
+ 
 [XR Access Resources](http://xraccess.org/resources/): The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all.
 
 > <a href="http://xraccess.org/resources/"> <img src="https://i.imgur.com/YbUkSjB.png" alt="XR Access Resources page" width=50%>
