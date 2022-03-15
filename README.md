@@ -130,6 +130,9 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 <a href="https://immersiveweb.dev/"><img src="https://user-images.githubusercontent.com/89936733/137200812-c7297fe5-5535-4c90-9309-ecadf85b7473.png" alt="WebXR" height="150"></a>
 
  - [WebXR home](https://immersiveweb.dev/) - An overview of WebXR, an API that enables web browsers access to input and output capabilities of XR devices.
+ 
+ 
+ - [Accessibility Considerations for the WebXR Device API](https://github.com/immersive-web/webxr/blob/7e8bd897a961ca703e55144e0c1415d95b12074c/accessibility-considerations-explainer.md) - Accessibility considerations for WebXR, as released by the Immersive Web W3C group.
 
  - [A-Frame](https://aframe.io/) - A web framework for building XR experiences using HTML.
 
