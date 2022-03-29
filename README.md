@@ -134,7 +134,7 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  
  - [Accessibility Considerations for the WebXR Device API](https://github.com/immersive-web/webxr/blob/7e8bd897a961ca703e55144e0c1415d95b12074c/accessibility-considerations-explainer.md) - Accessibility considerations for WebXR, as released by the Immersive Web W3C group.
 
- - [A-Frame](https://aframe.io/) - A web framework for building XR experiences using HTML.
+ - [A-Frame](https://aframe.io/) - A web framework for building XR experiences using HTML. See also: [City Builder](https://github.com/kfarr/aframe-city-builder), [Leap Motion Hands](https://github.com/openleap/aframe-leap-hands), [A-Frame GUI](https://github.com/rdub80/aframe-gui), [A-Frame Super Hands](https://github.com/wmurphyrd/aframe-super-hands-component), and [A-Frame Motion Capture Components](https://github.com/dmarcos/aframe-motion-capture-components).
 
  - [AccessibleLocomotionWebXR](https://github.com/rdub80/aframe-binary-controls) - An A-Frame component developed by Roland Dubois that enables quadriplegic users to navigate webvr spaces with binary input (sip-puff /assistive technology) for an augmented locomotion interface.
 
@@ -187,13 +187,17 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  
  - [Quha Zono](https://www.quha.com/products-2/zono/) - A gyroscopic, head-based mouse designed for people with motor disabilities.
  
+ - [EarSwitch](https://hackaday.io/project/169110-earswitch-assistive-technology-switch-new-hci) - An ear camera that can pick up ear movement to use as a binary switch or potentially for eye tracking. See also [earswitch.co.uk](https://www.earswitch.co.uk/), email Nick@earswitch.co.uk for more information.
+ 
 
 ## Organizations and Articles
-
+ 
  - [Forward for Good](https://www.verizonforwardforgood.com/) - An accelerator sponsored by Verizon focused on economic, environmental, and social advancement. Their current cohort is Disability Innovation, intended to help small US-based companies working on accessible technology scale up. Applications are open until November 1st.
 
  - [Accessibility Unlocked](https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
 
+ - [A Hacker's Guide to XR Accessibility](https://medium.com/@dylan.r.fox/a-hackers-guide-to-xr-accessibility-13a5ba0219c8) - An article for hackathon participants working on immersive technologies. Includes guidance on accessibility, open source codebases, and hacking suggestions.
+ 
  - [What I Know About: Being Sick at Work](https://blog.bonnieeisenman.com/blog/being-sick-at-work/) - Advice on how to go about discussing accessibility and accommodations in the workplace.
 
 # User Testing
