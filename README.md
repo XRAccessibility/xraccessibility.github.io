@@ -73,6 +73,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [10  Usability Heuristics Applied to Virtual Reality](https://www.nngroup.com/articles/usability-heuristics-virtual-reality/) - Jakob Nielsen's 10 usability herustics for interface design, as applied to virtual reality.
 
  - [An IllegallySighted Look at VR Accessibility](https://www.youtube.com/watch?v=mhQs7tsNHRI&ab_channel=IllegallySighted) - A presentation on some of the challenges and possible solutions for low-vision VR circa 2017.
+ 
+ - [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - A report from the BBC focused on motor and cognitive barriers to using VR for people with disabilities.
 
 # Platform Solutions
 ## ARCore  
