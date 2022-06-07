@@ -75,6 +75,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [An IllegallySighted Look at VR Accessibility](https://www.youtube.com/watch?v=mhQs7tsNHRI&ab_channel=IllegallySighted) - A presentation on some of the challenges and possible solutions for low-vision VR circa 2017.
  
  - [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - A report from the BBC focused on motor and cognitive barriers to using VR for people with disabilities.
+ 
+ - [SpoonieVR VR Accessibility Chart](https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibilty for various games and applications on the market.
 
 # Platform Solutions
 ## ARCore  
