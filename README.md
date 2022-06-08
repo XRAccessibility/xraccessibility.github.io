@@ -112,6 +112,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [Unity Tutorials](https://learn.unity.com/) - Unity's suite of tutorials. Look for the "XR Development" category.
 
  - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin) - A Unity plugin that brings screen reader functionality to Unity applications. Supports Android, iOS, Windows, Mac, and WebGL up to Unity 2020.1. *Note: may require additional development to work with XR headsets.*
+ 
+ - [Apple Unity Plug-Ins](https://github.com/apple/unityplugins) - Exposes a selection of Apple platform frameworks to Unity developers, including accessibility features like VoiceOver. [See video here.](https://developer.apple.com/videos/play/wwdc2022/10151/) *Note: Unclear how much this interacts with ARKit.*
 
  - [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit) - A Unity project featuring a suite of low-vision tools, including magnification, contrast enhancement, remapping, text augmentation, text to speech, and more. *Note: has not been updated since 2019.*
 
