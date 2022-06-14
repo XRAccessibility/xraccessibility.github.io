@@ -230,3 +230,5 @@ Some organizations that may be able to support user testing by people with disab
 > <img src="https://i.imgur.com/3f0FfDk.png" alt="Interactions with wearables" width=50%>
  
  - [Equal Entry AR/VR/XR Articles](https://equalentry.com/category/ar-vr-xr/) - A collection of articles from Equal Entry about XR accessibility.
+ 
+ - [The Last of Us Part II Accessibility Settings](https://www.playstation.com/en-us/games/the-last-of-us-part-ii/accessibility/) - a comprehensive set of accessibility features in Naughty Dog's first person shooter, The Last Of Us Part II. Not in XR but highly relevant for navigating in 3D environments.
