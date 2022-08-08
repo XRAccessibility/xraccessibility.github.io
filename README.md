@@ -77,6 +77,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - A report from the BBC focused on motor and cognitive barriers to using VR for people with disabilities.
  
  - [SpoonieVR VR Accessibility Chart](https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibilty for various games and applications on the market.
+ 
+ - [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) by Alexandria Heston - A great summary of accessible design in XR, as part of Heston's thorough guide on the design of VR and AR.
 
 # Platform Solutions
 ## ARCore  
