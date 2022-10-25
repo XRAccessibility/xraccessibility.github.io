@@ -79,6 +79,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [SpoonieVR VR Accessibility Chart](https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibilty for various games and applications on the market.
  
  - [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) by Alexandria Heston - A great summary of accessible design in XR, as part of Heston's thorough guide on the design of VR and AR.
+ 
+ - [Accessibility Matrix](https://bit.ly/SGmatrix) - A spreadsheet from Schell Games for developers to make VR games more accessible.
 
 # Platform Solutions
 ## ARCore  
@@ -86,8 +88,6 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 <a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/89936733/137200291-5775b011-d0b9-4fd7-bebb-d2a1233abd8b.png" alt="ARCore" height="150"></a>
 
  - [ARCore home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
-
-
 
 ## ARKit
 
