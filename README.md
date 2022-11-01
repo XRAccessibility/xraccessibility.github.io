@@ -12,17 +12,19 @@ The XRAccessibility Project is an initiative driven by the [XR Association](http
 
  - A [**contribution form**](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link) for adding additional resources to this project
 
-## Featured Platforms
+## Table of Contents
+1. **General Resources to Help Get You Started** - A core set of resources to introduce you to XR accessibility.
+2. **Additional Accessibility Guidelines** - Further lists of accessibility guidelines and tools.
+3. **Platform Solutions** - Resources on a per-platform basis.
+4. **Developer Communities** - Groups you can reach out to for help with XR development and/or accessibility.
+5. **Resources for Disabled Developers** - Tools to help developers with disabilites contribute to XR projects.
+6. **User Testing** -  Organizations and resources focused on supporting inclusive user testing.
+7. **Additional Resources** - Anything that doesn't fit into the above.
 
-| Platform              	| Supported Devices                                                            	|
-|-----------------------	|------------------------------------------------------------------------------	|
-| ARCore                	| Android                                                                      	|
-| ARKit                 	| iOS                                                                          	|
-| LuminOS               	| Magic Leap One                                                                    	|
-| Unity                 	| Many                          	|
-| Unreal                	| Many                          	|
-| WebXR                 	| Web browsers                       	|
-| Windows Mixed Reality 	| Microsoft HoloLens<br>Microsoft HoloLens 2<br>Windows Mixed Reality headsets 	|
+## How Do I Use This?
+For now, the XR Accessibility project is a list of resources, so just go to the category that fits your needs and try out some of the links. One day we hope to host code snippets right here in this repo - if you'd like your code to be featured, reach out to info@xraccess.org!
+
+If you don't know where to start, you can ask questions at the [XR Access Slack](https://bit.ly/xraccess-slack).
 
 ## How to Contribute
 
@@ -83,6 +85,17 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [Accessibility Matrix](https://bit.ly/SGmatrix) - A spreadsheet from Schell Games for developers to make VR games more accessible.
 
 # Platform Solutions
+ 
+| Platform              	| Supported Devices                                                            	|
+|-----------------------	|------------------------------------------------------------------------------	|
+| ARCore                	| Android                                                                      	|
+| ARKit                 	| iOS                                                                          	|
+| LuminOS               	| Magic Leap One                                                                    	|
+| Unity                 	| Many                          	|
+| Unreal                	| Many                          	|
+| WebXR                 	| Web browsers                       	|
+| Windows Mixed Reality 	| Microsoft HoloLens<br>Microsoft HoloLens 2<br>Windows Mixed Reality headsets 	|
+ 
 ## ARCore  
 
 <a href="https://developers.google.com/ar"><img src="https://user-images.githubusercontent.com/89936733/137200291-5775b011-d0b9-4fd7-bebb-d2a1233abd8b.png" alt="ARCore" height="150"></a>
