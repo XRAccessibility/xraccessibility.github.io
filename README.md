@@ -83,6 +83,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) by Alexandria Heston - A great summary of accessible design in XR, as part of Heston's thorough guide on the design of VR and AR.
  
  - [Accessibility Matrix](https://bit.ly/SGmatrix) - A spreadsheet from Schell Games for developers to make VR games more accessible.
+ 
+- [The Value of Inclusively Designed XR Workplace Tools](https://xraccess.org/bcxr-report/) - XR Access' report laying out reasons why organizations adopting XR technologies must think about disability inclusion and accessibility as they pivot to hybrid work and maintain business operations.
 
 # Platform Solutions
  
