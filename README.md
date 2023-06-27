@@ -86,6 +86,29 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  
 - [The Value of Inclusively Designed XR Workplace Tools](https://xraccess.org/bcxr-report/) - XR Access' report laying out reasons why organizations adopting XR technologies must think about disability inclusion and accessibility as they pivot to hybrid work and maintain business operations.
 
+## W3C Standards
+The following standards are relevant to XR applications.
+
+ - [XAUR: XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) - 	This document lists user needs and requirements for people with disabilities when using virtual reality or immersive environments, augmented or mixed reality and other related technologies (XR).
+
+ - [SAUR: Synchronization Accessibility User Requirements](https://www.w3.org/TR/saur/) - This document summarizes relevant research, then outlines accessibility-related user needs and associated requirements for the synchronization of audio and visual media. The scope of the discussion includes synchronization of accessibility-related components of multimedia, such as captions, sign language interpretation, and descriptions. The requirements identified herein are also applicable to multimedia content in general, as well as real-time communication applications and media occurring in immersive environments.
+
+ - [NAUR: Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) - 	This document outlines accessibility-related user needs, requirements and scenarios for natural language interfaces.
+
+ - [RAUR: RTC Accessibility User Requirements](https://www.w3.org/TR/raur/) - This document outlines various accessibility related user needs, requirements and scenarios for real-time communication (RTC).
+ 
+ - [Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/) - This document summarizes considerations of accessibility that arise in the conduct of remote and hybrid meetings. Such meetings are mediated, for some or all participants, by real-time communication software typically built upon Web technologies.
+ 
+ - [CTAUR: Collaboration Tools Accessibility User Requirements](https://www.w3.org/TR/ctaur/) - This document outlines various accessibility-related user needs, requirements and scenarios for collaboration tools. The tools of interest are distinguished by their support for one or more specific collaborative features. These features include real-time editing of content by multiple authors, the use of comments or annotations, and revision control.
+ 
+ - [MAUR: Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) - This document presents the accessibility requirements users with disabilities have with respect to audio and video on the web.
+ 
+ - [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) - This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. This specification defines support that applies across multiple content technologies, including general keyboard navigation support and mapping of general-purpose roles, states, and properties provided in Web content via WAI-ARIA.
+ 
+ - [Graphics Accessibility API Mappings](https://www.w3.org/TR/graphics-aam-1.0/) - The Graphics Accessibility API Mappings defines how user agents map the WAI-ARIA Graphics Module markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility of graphics.
+
+
+
 # Platform Solutions
  
 | Platform              	| Supported Devices                                                            	|
@@ -153,7 +176,7 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 <a href="https://immersiveweb.dev/"><img src="https://user-images.githubusercontent.com/89936733/137200812-c7297fe5-5535-4c90-9309-ecadf85b7473.png" alt="WebXR" height="150"></a>
 
  - [WebXR home](https://immersiveweb.dev/) - An overview of WebXR, an API that enables web browsers access to input and output capabilities of XR devices.
- 
+ - [WebXR Device API](https://www.w3.org/TR/webxr/) - W3C candidate recommendation draft. This specification describes support for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays, on the Web.
  
  - [Accessibility Considerations for the WebXR Device API](https://github.com/immersive-web/webxr/blob/7e8bd897a961ca703e55144e0c1415d95b12074c/accessibility-considerations-explainer.md) - Accessibility considerations for WebXR, as released by the Immersive Web W3C group.
 
