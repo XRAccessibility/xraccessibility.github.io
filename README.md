@@ -64,8 +64,6 @@ If you’re new to XR and Accessibility, then check out these resources for conc
 
 ## Additional Accessibility Guidelines
  
- - [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) - A list of user needs and requirements for people with disabilities using XR technology, published by the W3C.
- 
  - [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A reference for inclusive game design, flexible enough to accommodate XR applications.
 
  - [Oculus - Designing Accessible VR Experiences](https://developer.oculus.com/resources/design-accessible-vr/) - A set of guidelines for designing accessible VR experiences. Includes sections on UX and UI, controls, movement, display, app design, audio, and captions.
@@ -85,6 +83,8 @@ If you’re new to XR and Accessibility, then check out these resources for conc
  - [Accessibility Matrix](https://bit.ly/SGmatrix) - A spreadsheet from Schell Games for developers to make VR games more accessible.
  
 - [The Value of Inclusively Designed XR Workplace Tools](https://xraccess.org/bcxr-report/) - XR Access' report laying out reasons why organizations adopting XR technologies must think about disability inclusion and accessibility as they pivot to hybrid work and maintain business operations.
+
+- [The IEEE Global Initiative on Ethics of Extended Reality: Ethics and Diversity, Inclusion, and Accessibility](https://ieeexplore.ieee.org/document/9727122) - A report from the IEEE on ethics-related issues to support the inclusive development, design, and deployment of XR applications. 
 
 ## W3C Standards
 The following standards are relevant to XR applications.
