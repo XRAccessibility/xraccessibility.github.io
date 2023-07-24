@@ -161,6 +161,17 @@ The following standards are relevant to XR applications.
 
 - [Inclusive User Testing in VR](https://devpost.com/software/inclusive-user-testing-in-vr) - The winner of the 2022 MIT Reality Hack, this Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard.
 
+### Prototype for the People projects
+The following were developed as part of XR Access' [Prototype for the People](https://xraccess.org/workstreams/prototype-for-the-people/) program encouraging open-source development of accessibility code.
+
+- [Chirp Captions](https://github.com/XR-Access-Initiative/chirp-captions) - An open-source captions solution for Unity. Offers a means of implementing pre-written captions across multiple speakers, with options for font, etc. Developed by Savio Menifer.
+
+- [Locomotion Accessibility Toolkit](https://github.com/XR-Access-Initiative/Locomotion-Accessibility-Toolkit) - An open-source toolkit featuring multiple modes of locomotion such as teleportation, smooth locomotion, and snap turning. Developed by Shivam Sharma.
+
+- [Vision Accessibility Toolkit](https://github.com/XR-Access-Initiative/Vision-Accessibility-Toolkit) - An open-source toolkit enabling the adjustment of visual settings like brightness, contrast, and hue. Developed by Yuvraj Kadale.
+
+<a href="https://github.com/XR-Access-Initiative/Vision-Accessibility-Toolkit"><img src="https://github.com/XR-Access-Initiative/Vision-Accessibility-Toolkit/raw/main/Vision%20Accessibility.png" alt="Visiona Accessibility Toolkit" height="150"></a>
+
 ## Unreal Engine
 <a href="https://www.unrealengine.com/en-US/"><img src="https://download.logo.wine/logo/Unreal_Engine/Unreal_Engine-Logo.wine.png" alt="Unreal Engine" height="120"></a>
 
