@@ -1,12 +1,12 @@
 <br />
 
-<img src="https://i.imgur.com/5q922Ua.png" alt="The XRAccessibility Project by the XR Association and XR Access" >
+<img src="https://imgur.com/IVfSfs9.png" alt="The XRAccessibility Project by the XR Association and XR Access" >
 
 # Project Overview
 
 The XRAccessibility Project is an initiative driven by the [XR Association](https://xra.org/) and [XR Access](https://xraccess.org) to provide a central place for developers to find solutions for creating accessible code across various XR platforms. We were inspired by developers, key players in ensuring that this technology is accessible, who reported challenges in finding accessible code snippets. Please browse the links below. If you can't find what you're looking for or don't know where to start, you can ask questions at the [XR Access Slack](https://bit.ly/xraccess-slack).
 
-### How to Contribute
+### Contributions Welcome
 
 The XRAccessibility Project is **open source**. If you know of resources that other developers could benefit from, please share them! To contribute to the XRAccessibility Project, fill out our [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  
 
