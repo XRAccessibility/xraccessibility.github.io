@@ -25,11 +25,12 @@ For other comments and suggestions, feel free to [file an issue](https://github.
 ### Table of Contents
 1. [**General Resources to Help You Get Started**](#general-resources-to-help-you-get-started) 
 2. [**Additional Accessibility Guidelines**](#additional-accessibility-guidelines)
-3. [**Platform-specific Solutions**](#platform-specific-solutions) 
-4. [**Developer Communities**](#w3c-standards)
-5. [**Resources for Disabled Developers**](#resources-for-disabled-developers)
-6. [**User Testing Resources**](#user-testing-resources)
-7. [**Miscellaneous Resources**](#miscellaneous-resources)
+3. [**W3C Standards**](#w3c-standards)
+4. [**Platform-specific Solutions**](#platform-specific-solutions) 
+5. [**Developer Communities**](#w3c-standards)
+6. [**Resources for Disabled Developers**](#resources-for-disabled-developers)
+7. [**User Testing Resources**](#user-testing-resources)
+8. [**Miscellaneous Resources**](#miscellaneous-resources)
 
 <br />
 
@@ -91,7 +92,7 @@ This channel is a compilation of videos presentations and recordings of meetups 
 
 <br />
 
-## W3C Standards
+# W3C Standards
 
 1. [XAUR: XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) - 	This document lists user needs and requirements for people with disabilities when using virtual reality or immersive environments, augmented or mixed reality and other related technologies (XR).
 
@@ -285,7 +286,9 @@ Some organizations that may be able to support user testing by people with disab
  
 5. [Equal Entry AR/VR/XR Articles](https://equalentry.com/category/ar-vr-xr/) - A collection of articles from Equal Entry about XR accessibility.
  
-6. [The Last of Us Part II Accessibility Settings](https://www.playstation.com/en-us/games/the-last-of-us-part-ii/accessibility/) - a comprehensive set of accessibility features in Naughty Dog's first person shooter, The Last Of Us Part II. Not in XR but highly relevant for navigating in 3D environments.
+6. [The Last of Us Part II Accessibility Settings](https://www.playstation.com/en-us/games/the-last-of-us-part-ii/accessibility/) - A comprehensive set of accessibility features in Naughty Dog's first person shooter, The Last Of Us Part II. Not in XR but highly relevant for navigating in 3D environments.
+
+7. [VR Chat Speech to Text](https://vrcstt.com/specs/) - A speech-to-text program for VR Chat and other programs that allows you to caption your speech by giving your avatar a speech bubble.
 
 <br />
 
