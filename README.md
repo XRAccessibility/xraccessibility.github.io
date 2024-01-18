@@ -272,6 +272,8 @@ Some organizations that may be able to support user testing by people with disab
 
 3. [Open Inclusion](https://openinclusion.com/) - A UK-based inclusive research and solutions consultancy, specializing in accessible design.
 
+4. [Measuring simulator sickness in VR: a guide for UX researchers](https://uxdesign.cc/measuring-simulator-sickness-in-vr-a-guide-for-ux-researchers-f2d7155aff38) - An article by Melissa Schmitz on how to understand and mitigate the impact of simulator sickness on VR users.
+
 <br />
 
 # Miscellaneous Resources 
