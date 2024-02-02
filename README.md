@@ -124,6 +124,7 @@ This channel is a compilation of videos presentations and recordings of meetups 
 | [ARKit](#arkit)                                         	| iOS                                                                          	|
 | [Unity](#unity)                                         	| Many                          	|
 | [Unreal](#unreal-engine)                                	| Many                          	|
+| [Vision Pro](#vision-pro)                                        | Apple Vision Pro                                                       	|
 | [WebXR](#webxr)                                         	| Web browsers                       	|
 | [Windows Mixed Reality](#windows-mixed-reality-toolkit) 	| Microsoft HoloLens<br>Microsoft HoloLens 2<br>Windows Mixed Reality headsets 	|
 <br />
@@ -190,6 +191,19 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 3. [Introduction to Accessible Design with Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-accessible-design-with-unreal-engine) - A tutorial course on how to develop accessible applications using Unreal.
  
 4. [Accessible Realities](http://accessiblerealities.com/blog/) - A project by Zohar Gan to implement a number of accessible behaviors in XR using Unreal Engine. 
+<br/>
+
+#
+<br />
+
+### Vision Pro<a href="https://www.apple.com/apple-vision-pro/"><img src="https://i.imgur.com/UpZdSml.png" alt="Vision Pro" width="220" align="right"></a>
+
+1. [Vision Pro Accessibility User Guide](https://support.apple.com/guide/apple-vision-pro/get-started-with-accessibility-features-tan426c48bdc/visionos) - An overview of Vision Pro's accessibility settings and how to enable them. You can also reference this [detailed walkthrough by Brian Tong](https://www.youtube.com/watch?v=b-GLz_VMCe4&ab_channel=BrianTong).
+2. [Apple Vision OS Planning Guide](https://developer.apple.com/visionos/planning/) - This document explains the basics of design for a Vision Pro app, including an "Embrace Inclusion" section that specifies core accessibility principles.
+3. [Create Accessible Spatial Experiences](https://developer.apple.com/videos/play/wwdc2023/10034) - This video, released at WWDC23, covers the basics of how developers can implement Vision Pro's accessibility features in their own applications.
+4. [Accessibility for UIKit](https://developer.apple.com/documentation/uikit/accessibility_for_uikit) - Since the Vision Pro runs on iOS, you can utilize the accessibility tools built into Apple's UIKit to check user preference and enable or disable features like motion controls.
+
+
 <br/>
 
 #
