@@ -306,6 +306,8 @@ Some organizations that may be able to support user testing by people with disab
 
 7. [VR Chat Speech to Text](https://vrcstt.com/specs/) - A speech-to-text program for VR Chat and other programs that allows you to caption your speech by giving your avatar a speech bubble.
 
+8. [SubLynk](https://devpost.com/software/sublynk) - Developed at MIT Reality Hack 2024, Sublynk is an AR Quest3 App that displays subtitles (English & Signed Exact English) over the head of a speaker in real time. 
+
 <br />
 
 The organizers would like to thank [Allison Cassels](http://www.allisoncassels.com/) for her support in improving the design of this page.
