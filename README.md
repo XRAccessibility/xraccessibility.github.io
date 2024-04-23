@@ -90,6 +90,8 @@ This channel is a compilation of videos presentations and recordings of meetups 
 
 11. [The IEEE Global Initiative on Ethics of Extended Reality: Ethics and Diversity, Inclusion, and Accessibility](https://ieeexplore.ieee.org/document/9727122) - A report from the IEEE on ethics-related issues to support the inclusive development, design, and deployment of XR applications.
 
+12. [W3C Recommendations for accessible captions in 360 degree video](https://www.w3.org/community/reports/immersive-captions/CG-FINAL-360-captions-20240412/) - The W3C Immersive Caption Community Group's recommendations on accessible captions for 360 degree video, including speaker identification, caption anchoring, seek by caption, and more.
+
 <br />
 
 # W3C Standards
