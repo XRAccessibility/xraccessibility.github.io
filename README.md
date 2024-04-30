@@ -90,7 +90,8 @@ This channel is a compilation of videos presentations and recordings of meetups 
 
 11. [The IEEE Global Initiative on Ethics of Extended Reality: Ethics and Diversity, Inclusion, and Accessibility](https://ieeexplore.ieee.org/document/9727122) - A report from the IEEE on ethics-related issues to support the inclusive development, design, and deployment of XR applications.
 
-12. [W3C Recommendations for accessible captions in 360 degree video](https://www.w3.org/community/reports/immersive-captions/CG-FINAL-360-captions-20240412/) - The W3C Immersive Caption Community Group's recommendations on accessible captions for 360 degree video, including speaker identification, caption anchoring, seek by caption, and more.
+12. [Understanding Function to Design for Disabilities](https://learn.microsoft.com/en-us/surface/inclusive-tech-lab/understanding-function-to-design-for-disabilities) - A resource from the Microsoft Inclusive Tech Lab outlining the cognitive, mobility, vision, hearing, speech, and sensory demands of the technology we all use daily. It illustrates barriers a person faces when they experience a mismatched interaction between their level of abilities and the design of a product.
+
 
 <br />
 
@@ -113,6 +114,8 @@ This channel is a compilation of videos presentations and recordings of meetups 
 8. [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) - This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. This specification defines support that applies across multiple content technologies, including general keyboard navigation support and mapping of general-purpose roles, states, and properties provided in Web content via WAI-ARIA.
  
 9. [Graphics Accessibility API Mappings](https://www.w3.org/TR/graphics-aam-1.0/) - The Graphics Accessibility API Mappings defines how user agents map the WAI-ARIA Graphics Module markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility of graphics.
+
+10. [Recommendations for Accessible Captions in 360 Degree Video](https://www.w3.org/community/reports/immersive-captions/CG-FINAL-360-captions-20240412/) - The W3C Immersive Caption Community Group's recommendations on accessible captions for 360 degree video, including speaker identification, caption anchoring, seek by caption, and more.
 
 <br />
 
