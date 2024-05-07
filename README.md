@@ -257,6 +257,8 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 
 6. [Oculus Accessibility Development Forum](https://forums.oculusvr.com/t5/Accessibility-Development/bd-p/dev-accessibility) - A portion of the Oculus forums dedicated to accessibility.
 
+7. [AudioGames.net](https://audiogames.net/) - A forum focused on audio-only games, full of blind gamers. 
+
 <br />
 
 # Resources for Disabled Developers  
