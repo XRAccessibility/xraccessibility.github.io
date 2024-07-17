@@ -318,6 +318,8 @@ Some organizations that may be able to support user testing by people with disab
 
 9. [Sign Language Mocap Archive](https://github.com/StudioGalt/Sign-Language-Mocap-Archive) - An open source collection of motion-captured recordings of American Sign Language, including avatar-based playback.
 
+10. [USD Accessibility Schema (Prototype)](https://github.com/dgovil/USD-proposals/blob/accessibility/proposals/accessibility/README.md) - Proposed accessibility schema for the USD format for large 3D content.
+
 <br />
 
 The organizers would like to thank [Allison Cassels](http://www.allisoncassels.com/) for her support in improving the design of this page.
