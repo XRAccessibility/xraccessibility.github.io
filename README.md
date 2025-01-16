@@ -18,6 +18,16 @@ For other comments and suggestions, feel free to [file an issue](https://github.
 
 <br />
 
+#### Latest additions (1/16/25):
+*  [A11YTK, The Accessibility Toolkit](https://github.com/A11YTK) - An open source unity package for adding context-aware subtitles in VR, AR, and non-XR environments.
+
+*  [Getting Started With Accessibility: Adding Subtitles](https://developer.vive.com/resources/accessibilty/tutorials/getting-started-with-accessibility-adding-subtitles/) - A guide from Vive Developers on how to add subtitles to XR applications.
+
+*  [GingerVR: An Open Source Repository of Cybersickness Reduction Techniques for Unity](https://ieeexplore.ieee.org/document/9090447) - A paper and plugin package by Samuel Ang and John Quarles including techniques for reducing simulator sickness.
+*  [InteractML](https://interactml.com/) - InteractML brings machine learning visual scripting to Unity, empowering game creators to develop novel gameplay mechanics and control schemes without writing code.
+*  [Dagstuhl 2024 Zotero](https://www.zotero.org/groups/5654291/accessiblexr-dagstuhl2024) - A collection of XR accessibility research curated at the 2024 Dagstuhl Schloss seminar on XR Accessibility.
+
+
 ---
 
 <br />
@@ -170,6 +180,14 @@ This channel is a compilation of videos presentations and recordings of meetups 
 
 7. [Inclusive User Testing in VR](https://devpost.com/software/inclusive-user-testing-in-vr) - The winner of the 2022 MIT Reality Hack, this Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard.
 
+8. [A11YTK, The Accessibility Toolkit](https://github.com/A11YTK) - An open source unity package for adding context-aware subtitles in VR, AR, and non-XR environments.
+
+9. [Getting Started With Accessibility: Adding Subtitles](https://developer.vive.com/resources/accessibilty/tutorials/getting-started-with-accessibility-adding-subtitles/) - A guide from Vive Developers on how to add subtitles to XR applications.
+
+10. [GingerVR: An Open Source Repository of Cybersickness Reduction Techniques for Unity](https://ieeexplore.ieee.org/document/9090447) - A paper and plugin package by Samuel Ang and John Quarles including techniques for reducing simulator sickness.
+
+11. [InteractML](https://interactml.com/) - InteractML brings machine learning visual scripting to Unity, empowering game creators to develop novel gameplay mechanics and control schemes without writing code. 
+
 <br />
 
 
@@ -319,6 +337,8 @@ Some organizations that may be able to support user testing by people with disab
 9. [Sign Language Mocap Archive](https://github.com/StudioGalt/Sign-Language-Mocap-Archive) - An open source collection of motion-captured recordings of American Sign Language, including avatar-based playback.
 
 10. [USD Accessibility Schema (Prototype)](https://github.com/dgovil/USD-proposals/blob/accessibility/proposals/accessibility/README.md) - Proposed accessibility schema for the USD format for large 3D content.
+
+11. [Dagstuhl 2024 Zotero](https://www.zotero.org/groups/5654291/accessiblexr-dagstuhl2024) - A collection of XR accessibility research curated at the 2024 Dagstuhl Schloss seminar on XR Accessibility.
 
 <br />
 
