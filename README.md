@@ -18,7 +18,12 @@ For other comments and suggestions, feel free to [file an issue](https://github.
 
 <br />
 
-#### Latest additions (1/16/25):
+#### Latest additions 
+
+2/19/25: 
+* [VR Accessibility SDK (Vision)](https://github.com/JustinMorera/VR-Accessibility-SDK) - This toolkit from students at the University of Central Florida features a streamlined set of tools for creating and displaying descriptive text for 3D objects. See also their [design document](https://docs.google.com/document/d/1iIMhPhmA_C5i53ML8hKiUYkyaDVStBKlHXCT8wYiS-E/edit?tab=t.0#heading=h.byux7erzq00h) and [demonstration video](https://www.youtube.com/watch?v=6jOx0Ex7318). 
+
+1/16/25:
 *  [A11YTK, The Accessibility Toolkit](https://github.com/A11YTK) - An open source unity package for adding context-aware subtitles in VR, AR, and non-XR environments.
 
 *  [Getting Started With Accessibility: Adding Subtitles](https://developer.vive.com/resources/accessibilty/tutorials/getting-started-with-accessibility-adding-subtitles/) - A guide from Vive Developers on how to add subtitles to XR applications.
@@ -186,7 +191,9 @@ This channel is a compilation of videos presentations and recordings of meetups 
 
 10. [GingerVR: An Open Source Repository of Cybersickness Reduction Techniques for Unity](https://ieeexplore.ieee.org/document/9090447) - A paper and plugin package by Samuel Ang and John Quarles including techniques for reducing simulator sickness.
 
-11. [InteractML](https://interactml.com/) - InteractML brings machine learning visual scripting to Unity, empowering game creators to develop novel gameplay mechanics and control schemes without writing code. 
+11. [InteractML](https://interactml.com/) - InteractML brings machine learning visual scripting to Unity, empowering game creators to develop novel gameplay mechanics and control schemes without writing code.
+
+12. [VR Accessibility SDK (Vision)](https://github.com/JustinMorera/VR-Accessibility-SDK) - This toolkit from students at the University of Central Florida features a streamlined set of tools for creating and displaying descriptive text for 3D objects. See also their [design document](https://docs.google.com/document/d/1iIMhPhmA_C5i53ML8hKiUYkyaDVStBKlHXCT8wYiS-E/edit?tab=t.0#heading=h.byux7erzq00h) and [demonstration video](https://www.youtube.com/watch?v=6jOx0Ex7318). 
 
 <br />
 
