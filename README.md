@@ -20,6 +20,8 @@ For other comments and suggestions, feel free to [file an issue](https://github.
 
 #### Latest additions 
 
+3/24/25: Added [Unreal Engine Accessibility Toolkit](https://www.fab.com/listings/86b3b74f-7d8c-4ce3-9803-5d692ff124a4).
+
 2/19/25: 
 * [VR Accessibility SDK (Vision)](https://github.com/JustinMorera/VR-Accessibility-SDK) - This toolkit from students at the University of Central Florida features a streamlined set of tools for creating and displaying descriptive text for 3D objects. See also their [design document](https://docs.google.com/document/d/1iIMhPhmA_C5i53ML8hKiUYkyaDVStBKlHXCT8wYiS-E/edit?tab=t.0#heading=h.byux7erzq00h) and [demonstration video](https://www.youtube.com/watch?v=6jOx0Ex7318). 
 
@@ -223,6 +225,8 @@ The following solutions were developed as part of XR Access' [Prototype for the 
  
 4. [Accessible Realities](http://accessiblerealities.com/blog/) - A project by Zohar Gan to implement a number of accessible behaviors in XR using Unreal Engine. 
 <br/>
+
+5. [Unreal Engine Accessibility Toolkit](https://www.fab.com/listings/86b3b74f-7d8c-4ce3-9803-5d692ff124a4) - A toolkit esigned to empower evelopers to make their projects accessible to a wider audience. (Not specific to XR.)
 
 #
 <br />
