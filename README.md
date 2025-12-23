@@ -8,7 +8,7 @@ The XRAccessibility Project is an initiative driven by the [XR Association](http
 
 ### Contributions Welcome
 
-The XRAccessibility Project is **open source**. If you know of resources that other developers could benefit from, please share them! To contribute to the XRAccessibility Project, fill out our [resources submission form](https://docs.google.com/forms/d/e/1FAIpQLScpJxyqTgY68ilw9dVAtHpivp2ks4TR7W7szmaC2ytLTFJ3mA/viewform?usp=sf_link).  
+The XRAccessibility Project is **open source**. If you know of resources that other developers could benefit from, please share them! To contribute to the XRAccessibility Project, email info@xra.org.
 
 > [!NOTE]
 >
@@ -16,9 +16,13 @@ The XRAccessibility Project is **open source**. If you know of resources that ot
 
 For other comments and suggestions, feel free to [file an issue](https://github.com/XRAccessibility/xraccessibility.github.io/issues) using Github.
 
+If you're interested in joining ongoing discussions around XR accessibility, consider joining the [MSF Accessibility in the Metaverse Working Group](https://metaverse-standards.org/domain-groups/accessibility-in-the-metaverse/) or the [Emerging Technology Accessibility Discord](https://tinyurl.com/eta-discord).
+
 <br />
 
 #### Latest additions 
+
+12/22/25: Added a number of resources, including the Research section, and updated in accordance with [XR Access Hibernation](https://xraccess.org/hibernation/) announcement.
 
 3/24/25: Added [Unreal Engine Accessibility Toolkit](https://www.fab.com/listings/86b3b74f-7d8c-4ce3-9803-5d692ff124a4).
 
@@ -65,15 +69,21 @@ Chapter Three is an update to XRA’s Developers Guide, a starter guide for deve
   
 <br />
 
-<a href="https://www.peatworks.org/futureofwork/xr/inclusiveworkplacexr/"><img src="https://i.imgur.com/FIpIrWf.jpg" width=240 align="left" alt="PEAT - Inclusive XR in the Workforce"></a>[PEAT - Inclusive XR in the Workforce](https://www.peatworks.org/futureofwork/xr/inclusiveworkplacexr/)
+<a href="https://docs.google.com/document/d/1NSSaXHTiTYyaIS7J2FW4hN13BapSeUWC20JkIPGsvQA/edit?usp=sharing"> <img src="https://metaverse-standards.org/wp-content/uploads/accessibility-in-the-metaverse-banner.webp" width=240 align="left" alt="Accessibility in the Metaverse Working Group"></a>[MSF XR Accessibility Guidelines](https://docs.google.com/document/d/1NSSaXHTiTYyaIS7J2FW4hN13BapSeUWC20JkIPGsvQA/edit?usp=sharing)
+
+The MSF Accessibility Working Group is in the process of creating a set of accessibility criteria and examples that enable the auditing of XR applications for accessibility and support XR creators trying to make their work accessible. You can also see their main webpage here: [MSF Accessibility](https://metaverse-standards.org/domain-groups/accessibility-in-the-metaverse/)
+
+<br />
+
+<a href="https://web.archive.org/web/20241130052418/https://www.peatworks.org/inclusive-xr-toolkit/"><img src="https://i.imgur.com/FIpIrWf.jpg" width=240 align="left" alt="PEAT - Inclusive XR in the Workforce"></a>[PEAT - Inclusive XR in the Workforce](https://www.peatworks.org/futureofwork/xr/inclusiveworkplacexr/)
   
-This resource will help anyone who wants to use immersive technologies in the workplace. Each section will help organizations to ensure the immersive technologies they adopt are accessible for all.
+This resource will help anyone who wants to use immersive technologies in the workplace. Each section will help organizations to ensure the immersive technologies they adopt are accessible for all. (Note: This resource has been removed by the Department of Labor for unspecified reasons. The link now points towards the Wayback Machine.)
 
 <br /><br />
  
 <a href="http://xraccess.org/resources/"><img src="https://i.imgur.com/AsdHsNl.jpg" alt="XR Access Resources page"  width=240 align="left"></a>[XR Access Resources](http://xraccess.org/resources/)
   
-The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all.
+The XR Access Initiative, whose mission is to modernize, innovate, and expand XR technologies, products, content and assistive technologies by promoting inclusive design in a diverse community, has put together a list of resources representing a sample of other accessible XR projects, and resources to help ensure that XR is accessible to all. You can also view the [XR Access video library](https://www.youtube.com/channel/UC8VMhtn5L4ppRdyICbKvyXw) for a rich compilation of accessibility seminars and deep dives, and the [XR Access Symposium Reports](https://drive.google.com/drive/folders/1I8MPYaGaSfAHTWSnnFSr0YLuPbksYW7w?usp=sharing) for summaries of the Symposia.
 
 <br />
  
@@ -111,6 +121,52 @@ This channel is a compilation of videos presentations and recordings of meetups 
 
 
 <br />
+
+# Research
+
+<a href="https://github.com/MadisonAbilityLab/VRSight"> <img src="https://raw.githubusercontent.com/dkillough/vrsight-images/7735b4f249b2a94c79f20903bcbc67b117faead1/comparison-noletters.png" width=240 align="left" alt="VRSight Comparison Image demonstrating object detection, depth estimation, and spatial audio output from the same image of two hands reaching out towards a table with interactive objects."></a>[VRSight: An AI-Driven Scene Description System to Improve Virtual Reality Accessibility for Blind People](https://github.com/MadisonAbilityLab/VRSight)
+  
+VRSight provides spatial audio feedback for blind and low vision users in virtual reality (VR) environments by leveraging AI systems like real-time object detection, zero-shot depth estimation, and multimodal large language models. VRSight provides real-time audio descriptions and spatial interaction assistance without per-app developer integration, creating the first post hoc "3D screen reading" system for VR.
+  
+<br />
+
+<a href="https://dl.acm.org/doi/10.1145/3544549.3583909"> <img src="https://i.ytimg.com/vi/RbbIu2T9DTE/maxresdefault.jpg" width=240 align="left" alt="Scene Weaving"></a>[Scene Weaving: An Interactional Metaphor to Enable Blind Users’ Experience in 3D Virtual Environments](https://www.youtube.com/watch?v=RbbIu2T9DTE)
+  
+"Dear god, please not another screen reader." -Harsha | This innovative approach to blind access to XR, developed by Microsoft Research, addresses the inadequacy of screen readers in 3D environments by combining a series of top-down and bottom-up mechanisms to enable both local exploration and top-down navigation. Also watch: [Scene Weaving - XR Access](https://www.youtube.com/watch?v=RbbIu2T9DTE)
+  
+<br />
+
+<a href="https://dl.acm.org/doi/10.1145/3706370.3732894"> <img src="https://i.imgur.com/QC0z0kF.jpeg" width=240 align="left" alt="Various gestures made while playing the ScOTT a gestural music instrument built with Lemmings."></a>[Lemmings: Creating Re-mappable Gestures For More Accessible Immersive Experiences](https://dl.acm.org/doi/10.1145/3706370.3732894)
+  
+This paper describes Lemmings, an in-development open source code library created by Justin Berry's team at Yale to enable custom gesture interactions for people with mobility disabilities.  Watch the presentation at the 2025 XR Access Symposium here: [Lemmings - Making Immersive Media Accessible | Justin Berry ](https://www.youtube.com/watch?v=h2eXGIxhnwo&t=6955s)
+  
+<br />
+
+<a href="https://ceal.cs.columbia.edu/surveyor/"> <img src="https://ceal.cs.columbia.edu/static/images/surveyor/overview.jpg" width=240 align="left" alt="Interior view of a medium-sized room with several large crates side-by-side. There is an opening between two of the crates, and an open doorway is at the far end of the room. The player is in front of this open doorway. There are red, yellow, and green boxes drawn on the ground, and a purple line extending from the player."></a>[Surveyor](https://ceal.cs.columbia.edu/surveyor/)
+  
+Surveyor enables blind and low-vision players to explore and discover things in video game environments in a self-directed manner, performing a similar sequence of actions that a sighted player would when they explore. Watch: [Beyond Access: Meaningful Accessibility in Video Games](https://www.youtube.com/watch?v=h2eXGIxhnwo&t=2265s)
+  
+<br />
+
+<a href="https://www.mdpi.com/2813-2084/4/2/25"> <img src="https://xraccess.org/wp-content/uploads/2025/10/Did-You-Hear-That-Wink.png" width=240 align="left" alt="Title: Did You Hear That Wink? Subtitle: Non-Visual, Non-Verbal Social Interaction Patterns from the Audio Game Community. Background: A girl plays with a VR headset while students interact in the background."></a>[Creating Non-Visual Non-Verbal Social Interactions in Virtual Reality](https://www.mdpi.com/2813-2084/4/2/25)
+  
+Although virtual reality (VR) was originally conceived of as a multi-sensory experience, most developers of the technology have focused on its visual aspects to the detriment of other senses such as hearing. This paper presents design patterns to make virtual reality fully accessible to non-visual users, including totally blind users, especially with non-verbal social interactions. Also watch: [Did You Hear That Wink? Non-Visual, Non-Verbal Social Interaction Patterns from the Audio Game Community](https://www.youtube.com/watch?v=K8wn67dYS1c)
+  
+<br />
+
+<a href="https://dl.acm.org/doi/abs/10.1145/3597638.3608386"> <img src="https://xraccess.org/wp-content/uploads/2023/09/Sighted-Guide.png" width=240 align="left" alt="In a virtual reality environment, two avatars stand close together, mimicking each other's stance."></a>[“The Guide Has Your Back”: Exploring How Sighted Guides Can Enhance Accessibility in Social Virtual Reality for Blind and Low Vision People](https://dl.acm.org/doi/abs/10.1145/3597638.3608386)
+  
+As social VR applications grow in popularity, blind and low vision users encounter continued accessibility barriers. Yet social VR, which enables multiple people to engage in the same virtual space, presents a unique opportunity to allow other people to support a user’s access needs. To explore this opportunity, we designed a framework based on physical sighted guidance that enables a guide to support a blind or low vision user with navigation and visual interpretation. Watch: [The Guide Has Your Back: Exploring How Sighted Guides Can Enhance Accessibility in Social Virtual Reality for Blind and Low Vision People](https://www.youtube.com/watch?v=72t9dlZKeOc)
+
+  
+<br />
+
+<a href="https://arxiv.org/abs/2403.15604"> <img src="https://xraccess.org/wp-content/uploads/2024/02/teaser1-800x320.png" width=240 align="left" alt="18 images randomly sampled from the diary study. These examples represent four of the most common goals: The first three images are examples of (A) Getting a scene description, the next six images are examples of (B) identifying features of objects, the next four images are examples of (C) obtaining the identity of a subject in the scene, and the last five are examples of (D) learning about the application."></a>[Investigating Use Cases of AI-Powered Scene Description Applications for Blind and Low Vision People](https://arxiv.org/abs/2403.15604)
+  
+"Scene description" applications that describe visual content in a photo are useful daily tools for blind and low vision (BLV) people. Researchers have studied their use, but they have only explored those that leverage remote sighted assistants; little is known about applications that use AI to generate their descriptions. Thus, to investigate their use cases, we conducted a two-week diary study where 16 BLV participants used an AI-powered scene description application we designed.
+  
+<br />
+
 
 # W3C Standards
 
@@ -274,7 +330,7 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 
 # Developer Communities
 
-1. [XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. See their [Slack](https://bit.ly/xraccess-slack) and [Github](https://github.com/XR-Access-Initiative) or [apply for membership](https://bit.ly/xraccess-interest).
+1. [Emerging Technology Accessibility](https://tinyurl.com/eta-discord) - The successor to the XR Access Slack, this Discord community founded by former XR Access director Dylan Fox is a space for people to discuss the latest technologies, tools, and policies affecting accessibility, and especially to capture the great but often hidden work that scientists around the world are doing to leverage tech as assistive tools and make it more accessible overall.
 
 2. [A11yVR Meetup](https://www.meetup.com/a11yvr/) - a Meetup for people who want to discuss topics around accessibility in technology for people with disabilities that apply to XR. Organized by Thomas Logan, founder of [Equal Entry](https://equalentry.com)
 
@@ -350,6 +406,8 @@ Some organizations that may be able to support user testing by people with disab
 10. [USD Accessibility Schema (Prototype)](https://github.com/dgovil/USD-proposals/blob/accessibility/proposals/accessibility/README.md) - Proposed accessibility schema for the USD format for large 3D content.
 
 11. [Dagstuhl 2024 Zotero](https://www.zotero.org/groups/5654291/accessiblexr-dagstuhl2024) - A collection of XR accessibility research curated at the 2024 Dagstuhl Schloss seminar on XR Accessibility.
+
+12. [Sign Language Motion Capture Archive](https://github.com/StudioGalt/Sign-Language-Mocap-Archive) - an archive full of motion capture data for sign language, compiled by Studio Galt.
 
 <br />
 
