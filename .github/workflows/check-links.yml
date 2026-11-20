@@ -15,7 +15,7 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # Many publisher sites (ACM, IEEE, Medium, Unreal) block automated checks with 403 or 429.
       # Those codes are accepted so they don't flood the report; real dead links (404, 410, DNS errors) still fail.
@@ -33,7 +33,7 @@ jobs:
 
       - name: Open an issue listing broken links
         if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: Broken links found by the monthly check
           content-filepath: ./lychee/out.md
