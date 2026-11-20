@@ -1,0 +1,59 @@
+name: Suggest a resource
+description: Recommend a guideline, tool, toolkit, research paper or example for the XRAccessibility Project.
+title: "Resource suggestion: "
+labels: ["resource suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep this list useful! Suggestions are reviewed for clarity, functionality and usefulness.
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it, and who is it for?
+      description: One or two sentences, as you'd want them to appear on the page.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section does it belong in?
+      options:
+        - General resources
+        - Resources for designers
+        - Accessibility guidelines
+        - Research
+        - W3C standards
+        - Platform-specific solutions (Unity, Unreal, WebXR, etc.)
+        - Developer communities
+        - Resources for disabled developers
+        - User testing
+        - Miscellaneous
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: demo
+    attributes:
+      label: Video demo or walk-through
+      description: Optional, but preferred for tools and code, so people don't have to deploy it to understand what it does.
+  - type: checkboxes
+    id: maintained
+    attributes:
+      label: Checks
+      options:
+        - label: The link works and the resource is publicly available.
+        - label: I'm involved in making this resource (that's fine, just let us know).

@@ -1,0 +1,32 @@
+name: Report a broken or outdated link
+description: Tell us about a link that no longer works, or a resource that is out of date.
+title: "Broken or outdated: "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Which resource?
+      description: Its name as it appears on the page.
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - The link is broken
+        - The link goes to the wrong page
+        - The resource is out of date or no longer maintained
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement link, if you know one
+      placeholder: https://
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else?
