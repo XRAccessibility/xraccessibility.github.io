@@ -99,25 +99,23 @@ New to accessible XR design? Start with these. Each one is also listed in its se
 
 2. [Meta - Designing Accessible VR](https://developers.meta.com/vr/design/accessibility/) - Meta's guidelines for designing accessible VR experiences (formerly the Oculus guidelines). Includes sections on UX and UI, controls, movement, display, app design, audio, and captions.
 
-3. [Magic Leap - Best Practices for Accessibility](https://web.archive.org/web/20241231222442/https://ml1-developer.magicleap.com/en-us/learn/guides/bp-for-accessibility) - A collection of best practices for designing accessible AR experiences. Includes sections on hearing, subtitles, visual, and mobility. *Note: Written for the retired Magic Leap 1. The link points to an archived copy.*
+3. [10 Usability Heuristics Applied to Virtual Reality](https://www.nngroup.com/articles/usability-heuristics-virtual-reality/) - Jakob Nielsen's 10 usability heuristics for interface design, as applied to virtual reality.
 
-4. [10 Usability Heuristics Applied to Virtual Reality](https://www.nngroup.com/articles/usability-heuristics-virtual-reality/) - Jakob Nielsen's 10 usability heuristics for interface design, as applied to virtual reality.
+4. [An IllegallySighted Look at VR Accessibility](https://www.youtube.com/watch?v=mhQs7tsNHRI&ab_channel=IllegallySighted) - A presentation on some of the challenges and possible solutions for low-vision VR circa 2017.
 
-5. [An IllegallySighted Look at VR Accessibility](https://www.youtube.com/watch?v=mhQs7tsNHRI&ab_channel=IllegallySighted) - A presentation on some of the challenges and possible solutions for low-vision VR circa 2017.
+5. [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - A report from the BBC focused on motor and cognitive barriers to using VR for people with disabilities.
 
-6. [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - A report from the BBC focused on motor and cognitive barriers to using VR for people with disabilities.
+6. [SpoonieVR VR Accessibility Chart](https://web.archive.org/web/20230328173642/https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibility for various games and applications on the market. *Note: The SpoonieVR site is offline. The link points to an archived copy from 2023.*
 
-7. [SpoonieVR VR Accessibility Chart](https://web.archive.org/web/20230328173642/https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibility for various games and applications on the market. *Note: The SpoonieVR site is offline. The link points to an archived copy from 2023.*
+7. [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) by Alexandria Heston - A great summary of accessible design in XR, as part of Heston's thorough guide on the design of VR and AR.
 
-8. [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) by Alexandria Heston - A great summary of accessible design in XR, as part of Heston's thorough guide on the design of VR and AR.
+8. [Accessibility Matrix](https://bit.ly/SGmatrix) - A spreadsheet from Schell Games for developers to make VR games more accessible.
 
-9. [Accessibility Matrix](https://bit.ly/SGmatrix) - A spreadsheet from Schell Games for developers to make VR games more accessible.
+9. [The Value of Inclusively Designed XR Workplace Tools](https://xraccess.org/bcxr-report/) - XR Access' report laying out reasons why organizations adopting XR technologies must think about disability inclusion and accessibility as they pivot to hybrid work and maintain business operations.
 
-10. [The Value of Inclusively Designed XR Workplace Tools](https://xraccess.org/bcxr-report/) - XR Access' report laying out reasons why organizations adopting XR technologies must think about disability inclusion and accessibility as they pivot to hybrid work and maintain business operations.
+10. [The IEEE Global Initiative on Ethics of Extended Reality: Ethics and Diversity, Inclusion, and Accessibility](https://ieeexplore.ieee.org/document/9727122) - A report from the IEEE on ethics-related issues to support the inclusive development, design, and deployment of XR applications.
 
-11. [The IEEE Global Initiative on Ethics of Extended Reality: Ethics and Diversity, Inclusion, and Accessibility](https://ieeexplore.ieee.org/document/9727122) - A report from the IEEE on ethics-related issues to support the inclusive development, design, and deployment of XR applications.
-
-12. [Understanding Function to Design for Disabilities](https://learn.microsoft.com/en-us/surface/inclusive-tech-lab/understanding-function-to-design-for-disabilities) - A resource from the Microsoft Inclusive Tech Lab outlining the cognitive, mobility, vision, hearing, speech, and sensory demands of the technology we all use daily. It illustrates barriers a person faces when they experience a mismatched interaction between their level of abilities and the design of a product.
+11. [Understanding Function to Design for Disabilities](https://learn.microsoft.com/en-us/surface/inclusive-tech-lab/understanding-function-to-design-for-disabilities) - A resource from the Microsoft Inclusive Tech Lab outlining the cognitive, mobility, vision, hearing, speech, and sensory demands of the technology we all use daily. It illustrates barriers a person faces when they experience a mismatched interaction between their level of abilities and the design of a product.
 
 <br />
 
