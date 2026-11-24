@@ -10,7 +10,7 @@ If you can't find what you're looking for or don't know where to start, ask in t
 
 ### Contributions Welcome
 
-The XRAccessibility Project is **open source**. If you know of resources that others could benefit from, please share them! [Suggest a resource or report a broken link](https://github.com/XRAccessibility/xraccessibility.github.io/issues/new/choose) by filing an issue, or open a pull request that edits this page.
+The XRAccessibility Project is **open source**. If you know of resources that others could benefit from, please share them! [Suggest a resource or report a broken link](https://github.com/XRAccessibility/xraccessibility.github.io/issues/new/choose) by filing an issue, or open a pull request that edits this page. Please describe resources in your own words instead of pasting an abstract. Contributions are shared under this project's [license](#license).
 
 > [!NOTE]
 >
@@ -20,6 +20,7 @@ If you're interested in joining ongoing discussions around XR accessibility, con
 
 ### Latest Additions
 
+* **11/23/26:** Added the [Meta Quest](#meta-quest) section, Unity's accessibility module, Android's accessibility guide and an archived copy of the XRA Developers Guide. Corrected descriptions that no longer matched their pages, sourced the status of retired platforms, and removed general links that weren't about accessibility. Clarified the [license](#license).
 * **11/20/26:** Cleaned up the page. Fixed broken and moved links, removed duplicates, added [Resources for Designers](#resources-for-designers), marked retired platforms and tools, and set up a monthly automatic link check.
 * **12/22/25:** Added a number of resources, including the [Research](#research) section, and updated the page following the [XR Access Hibernation](https://xraccess.org/hibernation/) announcement.
 * **3/24/25:** Added the [Unreal Engine Accessibility Toolkit](https://www.fab.com/listings/86b3b74f-7d8c-4ce3-9803-5d692ff124a4).
@@ -49,7 +50,7 @@ If you're interested in joining ongoing discussions around XR accessibility, con
 
 <a href="https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/"><img src="https://i.imgur.com/ah6Zhbp.jpg" width="240" align="left" alt="XR Association Developers Guide"></a>[XRA’s Developers Guide, Chapter Three](https://xra.org/research/xra-developers-guide-accessibility-and-inclusive-design/)
 
-Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities.
+Chapter Three is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Accessibility & Inclusive Design in Immersive Experiences,” offers a set of industry-backed best practices for developing accessible platforms that enhance experiences for all users, not just those with disabilities. If the link stops working, see this [archived PDF of Chapter Three from 2020](https://web.archive.org/web/20201101021421/https://xra.org/wp-content/uploads/2020/10/XRA_Developers-Guide_Chapter-3_Web_v3.pdf).
 
 <br />
 
@@ -79,17 +80,18 @@ This channel is a compilation of video presentations and recordings of meetups w
 
 ## Resources for Designers
 
-New to accessible XR design? Start with these. Each one is also listed in its section below.
+New to accessible XR design? Start with these. Each one is also listed elsewhere on this page.
 
-1. [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) - The broadest checklist of accessible game design, and most of it applies to XR.
+1. [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) - A reference for inclusive game design that is flexible enough to apply to XR.
 2. [MSF XR Accessibility Guidelines](https://docs.google.com/document/d/1wRHflVnJhRqZh6IvVAbWZGm0qXrkcJ2RxdRNaQjsMdY/edit?usp=sharing) - Testable criteria written specifically for XR, with real-world examples.
-3. [Meta - Designing Accessible VR](https://developers.meta.com/vr/design/accessibility/) - Practical guidance on UI, controls, movement, display, audio and captions.
+3. [Meta - Designing Accessible VR](https://developers.meta.com/vr/design/accessibility/) - Guidance on input, captions, hearing and mobility controls, contrast, text size, screen readers and testing.
 4. [Understanding Function to Design for Disabilities](https://learn.microsoft.com/en-us/surface/inclusive-tech-lab/understanding-function-to-design-for-disabilities) - Explains the abilities a design asks of people, so you can spot barriers early.
 5. [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - The BBC's catalog of motor and cognitive barriers in VR.
 6. [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) - A readable summary of accessible XR design by Alexandria Heston.
 7. [The Locomotion Vault](https://locomotionvault.github.io/) - Compare VR movement methods, including by accessibility.
 8. [Recommendations for Accessible Captions in 360 Degree Video](https://www.w3.org/community/reports/immersive-captions/CG-FINAL-360-captions-20240412/) - How to place, style and identify speakers in immersive captions.
-9. [The Last of Us Part II Accessibility Settings](https://www.playstation.com/en-us/games/the-last-of-us-part-ii/accessibility/) - A widely cited example of thorough accessibility settings in a 3D game.
+9. [The Last of Us Part II Accessibility Settings](https://www.playstation.com/en-us/games/the-last-of-us-part-ii/accessibility/) - An example of extensive accessibility settings in a 3D game.
+10. [Human Interface Guidelines: Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility) - Apple's accessibility guidance for designing on its platforms, including visionOS.
 
 <br />
 
@@ -97,7 +99,7 @@ New to accessible XR design? Start with these. Each one is also listed in its se
 
 1. [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) - A reference for inclusive game design, flexible enough to accommodate XR applications.
 
-2. [Meta - Designing Accessible VR](https://developers.meta.com/vr/design/accessibility/) - Meta's guidelines for designing accessible VR experiences (formerly the Oculus guidelines). Includes sections on UX and UI, controls, movement, display, app design, audio, and captions.
+2. [Meta - Designing Accessible VR](https://developers.meta.com/vr/design/accessibility/) - Meta's accessibility guidelines for VR developers (formerly the Oculus guidelines). Covers inputs and interactions, assistive technology, captions, hearing and mobility controls, color contrast, text sizing, screen readers, focus indicators and testing, with a checklist.
 
 3. [10 Usability Heuristics Applied to Virtual Reality](https://www.nngroup.com/articles/usability-heuristics-virtual-reality/) - Jakob Nielsen's 10 usability heuristics for interface design, as applied to virtual reality.
 
@@ -105,7 +107,7 @@ New to accessible XR design? Start with these. Each one is also listed in its se
 
 5. [Barriers Browser](https://www.bbc.co.uk/accessibility/forproducts/xr/barriers) - A report from the BBC focused on motor and cognitive barriers to using VR for people with disabilities.
 
-6. [SpoonieVR VR Accessibility Chart](https://web.archive.org/web/20230328173642/https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibility for various games and applications on the market. *Note: The SpoonieVR site is offline. The link points to an archived copy from 2023.*
+6. [SpoonieVR VR Accessibility Chart](https://web.archive.org/web/20230328173642/https://spoonievr.com/chart/) - A spreadsheet started by individuals with disabilities to track accessibility for various games and applications on the market. *Note: The SpoonieVR site is offline, so the link points to an archived copy from 2023. The [chart's responses](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ21pFBdyJi-MFJNyVrYrEgrInQDxMp_PHjYn1WB5Zn2sRPGmIx5-K3l6dpQZ7X8a9MZ8TFS-AwzR_i/pubhtml?gid=851360186&single=true) are still online. The most recent is from January 2024.*
 
 7. [The Design of Virtual And Augmented Reality - Designing for Accessibility](https://aliheston.gitbook.io/the-design-of-virtual-and-augmented-reality/the-foundations-of-vr-and-ar/designing-for-accessibility) by Alexandria Heston - A great summary of accessible design in XR, as part of Heston's thorough guide on the design of VR and AR.
 
@@ -147,19 +149,19 @@ Surveyor enables blind and low-vision players to explore and discover things in 
 
 <a href="https://www.mdpi.com/2813-2084/4/2/25"><img src="https://xraccess.org/wp-content/uploads/2025/10/Did-You-Hear-That-Wink.png" width="240" align="left" alt="Title: Did You Hear That Wink? Subtitle: Non-Visual, Non-Verbal Social Interaction Patterns from the Audio Game Community. Background: A girl plays with a VR headset while students interact in the background."></a>[Creating Non-Visual Non-Verbal Social Interactions in Virtual Reality](https://www.mdpi.com/2813-2084/4/2/25)
 
-Although virtual reality (VR) was originally conceived of as a multi-sensory experience, most developers of the technology have focused on its visual aspects to the detriment of other senses such as hearing. This paper presents design patterns to make virtual reality fully accessible to non-visual users, including totally blind users, especially with non-verbal social interactions. Also watch: [Did You Hear That Wink? Non-Visual, Non-Verbal Social Interaction Patterns from the Audio Game Community](https://www.youtube.com/watch?v=K8wn67dYS1c)
+Design patterns for social interaction in VR that works without vision, including for people who are totally blind. Five leading audio game developers helped define 29 non-verbal interactions, such as movement and emotes. Also watch: [Did You Hear That Wink? Non-Visual, Non-Verbal Social Interaction Patterns from the Audio Game Community](https://www.youtube.com/watch?v=K8wn67dYS1c)
 
 <br />
 
 <a href="https://dl.acm.org/doi/abs/10.1145/3597638.3608386"><img src="https://xraccess.org/wp-content/uploads/2023/09/Sighted-Guide.png" width="240" align="left" alt="In a virtual reality environment, two avatars stand close together, mimicking each other's stance."></a>[“The Guide Has Your Back”: Exploring How Sighted Guides Can Enhance Accessibility in Social Virtual Reality for Blind and Low Vision People](https://dl.acm.org/doi/abs/10.1145/3597638.3608386)
 
-As social VR applications grow in popularity, blind and low vision users encounter continued accessibility barriers. Yet social VR, which enables multiple people to engage in the same virtual space, presents a unique opportunity to allow other people to support a user’s access needs. To explore this opportunity, we designed a framework based on physical sighted guidance that enables a guide to support a blind or low vision user with navigation and visual interpretation. Watch: [The Guide Has Your Back: Exploring How Sighted Guides Can Enhance Accessibility in Social Virtual Reality for Blind and Low Vision People](https://www.youtube.com/watch?v=72t9dlZKeOc)
+A framework that lets a blind or low vision person in social VR hold on to a sighted guide, move with them and hear their surroundings described. The authors studied it with 16 blind and low vision participants, whose preferences varied widely. Watch: [The Guide Has Your Back: Exploring How Sighted Guides Can Enhance Accessibility in Social Virtual Reality for Blind and Low Vision People](https://www.youtube.com/watch?v=72t9dlZKeOc)
 
 <br />
 
 <a href="https://arxiv.org/abs/2403.15604"><img src="https://xraccess.org/wp-content/uploads/2024/02/teaser1-800x320.png" width="240" align="left" alt="18 images randomly sampled from the diary study. These examples represent four of the most common goals: The first three images are examples of (A) Getting a scene description, the next six images are examples of (B) identifying features of objects, the next four images are examples of (C) obtaining the identity of a subject in the scene, and the last five are examples of (D) learning about the application."></a>[Investigating Use Cases of AI-Powered Scene Description Applications for Blind and Low Vision People](https://arxiv.org/abs/2403.15604)
 
-"Scene description" applications that describe visual content in a photo are useful daily tools for blind and low vision (BLV) people. Researchers have studied their use, but they have only explored those that leverage remote sighted assistants; little is known about applications that use AI to generate their descriptions. Thus, to investigate their use cases, we conducted a two-week diary study where 16 BLV participants used an AI-powered scene description application we designed.
+A two-week diary study in which 16 blind and low vision people used an app that describes photos with AI. It looks at what they wanted to know, and finds that they rated the descriptions fairly low for satisfaction and trust.
 
 <br />
 
@@ -193,17 +195,19 @@ As social VR applications grow in popularity, blind and low vision users encount
 |---|---|
 | [ARCore](#arcore) | Android |
 | [ARKit](#arkit) | iOS |
+| [Meta Quest](#meta-quest) | Meta Quest headsets |
 | [Unity](#unity) | Many |
 | [Unreal](#unreal-engine) | Many |
 | [Vision Pro](#vision-pro) | Apple Vision Pro |
 | [WebXR](#webxr) | Web browsers |
-| [Windows Mixed Reality](#windows-mixed-reality-toolkit) | Microsoft HoloLens, HoloLens 2 and Windows Mixed Reality headsets (all discontinued) |
+| [Windows Mixed Reality](#windows-mixed-reality-toolkit) | Microsoft HoloLens, HoloLens 2 and Windows Mixed Reality headsets (all discontinued, see the note in that section) |
 
 ### ARCore
 
 <img src="https://i.imgur.com/uIX2kzO.png" alt="" width="220" align="right">
 
 1. [ARCore Home](https://developers.google.com/ar) - An overview of ARCore, Google's development toolkit for Android.
+2. [Build accessible apps](https://developer.android.com/guide/topics/ui/accessibility) - Android's general accessibility guide for developers. *Note: Not specific to AR.*
 
 <br clear="right" />
 
@@ -216,19 +220,24 @@ As social VR applications grow in popularity, blind and low vision users encount
 
 <br clear="right" />
 
+### Meta Quest
+
+1. [Accessibility features for Meta Quest](https://www.meta.com/help/quest/674999931400954/) - Meta's guide to the headset's built-in vision, hearing and mobility settings, including height adjustment, audio balance, color correction, text to speech and a screen reader.
+2. [Meta - Designing Accessible VR](https://developers.meta.com/vr/design/accessibility/) - Meta's accessibility guidelines for VR developers.
+
 ### Unity
 
 <img src="https://i.imgur.com/y194G1d.png" alt="" width="220" align="right">
 
-1. [Unity home](https://unity.com) - An overview of Unity, one of the most popular 3D development platforms.
+1. [Unity Tutorials](https://learn.unity.com/) - Unity's suite of tutorials. Look for the "XR Development" category.
 
-2. [Unity Tutorials](https://learn.unity.com/) - Unity's suite of tutorials. Look for the "XR Development" category.
+2. [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin) - A Unity plugin that brings screen reader functionality to Unity applications. Supports Android, iOS, Windows, Mac, and WebGL up to Unity 2020.1. *Note: may require additional development to work with XR headsets. Last updated in 2023.*
 
-3. [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin) - A Unity plugin that brings screen reader functionality to Unity applications. Supports Android, iOS, Windows, Mac, and WebGL up to Unity 2020.1. *Note: may require additional development to work with XR headsets. Last updated in 2023.*
+3. [Unity accessibility module](https://docs.unity3d.com/ScriptReference/UnityEngine.AccessibilityModule.html) - Unity's built-in accessibility APIs, including the hierarchy that screen readers use. *Note: The documentation links to guidance for mobile apps and doesn't mention XR.*
 
 4. [Apple Unity Plug-Ins](https://github.com/apple/unityplugins) - Exposes a selection of Apple platform frameworks to Unity developers, including accessibility features like VoiceOver. [See video here.](https://developer.apple.com/videos/play/wwdc2022/10151/) *Note: Unclear how much this interacts with ARKit.*
 
-5. [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit) - A Unity project featuring a suite of low-vision tools, including magnification, contrast enhancement, remapping, text augmentation, text to speech, and more. *Note: Little development since 2019 apart from occasional security fixes.*
+5. [SeeingVRtoolkit](https://github.com/microsoft/seeingvrtoolkit) - A Unity project featuring a suite of low-vision tools, including magnification, contrast enhancement, remapping, text augmentation, text to speech, and more. *Note: Little development since 2019, apart from a security fix in 2026.*
 
 6. [Unity Documentation - Vision Utility](https://docs.unity.com/en-us/engine/6000.6/script-reference/unityengine/accessibility/visionutility) - A Unity class containing methods to assist with accessibility for users with different vision capabilities. Currently includes one method: Get Color Blind Safe Palette.
 
@@ -253,21 +262,19 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 | <img src="https://i.imgur.com/Cm0y9PK.png" alt="Chirp Caption System for Unity XR"> | [Chirp Captions](https://github.com/XR-Access-Initiative/chirp-captions) <br /><br /> An open-source captions solution for Unity. Offers a means of implementing pre-written captions across multiple speakers, with options for font, etc. Developed by Savio Menifer. |
 | <img src="https://i.imgur.com/srHnBf3.gif" alt="Locomotion accessibility tool preview shows controller legend"> | [Locomotion Accessibility Toolkit](https://github.com/XR-Access-Initiative/Locomotion-Accessibility-Toolkit) <br /><br /> An open-source toolkit featuring multiple modes of locomotion such as teleportation, smooth locomotion, and snap turning. Developed by Shivam Sharma. |
 | <img src="https://i.imgur.com/O66t3eM.gif" alt="Vision accessibility toolkit preview shows brightness adjustment in VR scene"> | [Vision Accessibility Toolkit](https://github.com/XR-Access-Initiative/Vision-Accessibility-Toolkit) <br /><br /> An open-source toolkit enabling the adjustment of visual settings like brightness, contrast, and hue. Developed by Yuvraj Kadale. |
-| <img src="https://i.imgur.com/DYOHhnm.png" alt="VERA Locomotion Accessibility Toolkit shows a menu allowing user to navigate in VR with switch controls."> | [VERA Locomotion Accessibility Toolkit](https://github.com/CoreyClements1/VERA_SD) <br /><br /> This open source toolkit, developed at UCF in collaboration with the VERA project, enables locomotion and interaction via menus designed for switch inputs. This enables people with severe motor disabilities to interact with VR. See their [VERA Locomotion YouTube Video](https://www.youtube.com/watch?v=ZX9FqlIL7lw&ab_channel=CristianMerino) for details. |
+| <img src="https://i.imgur.com/DYOHhnm.png" alt="VERA Locomotion Accessibility Toolkit shows a menu allowing user to navigate in VR with switch controls."> | [VERA Locomotion Accessibility Toolkit](https://github.com/CoreyClements1/VERA_SD) <br /><br /> This open source toolkit, developed at UCF in collaboration with the VERA project, enables locomotion and interaction via menus designed for switch inputs. This enables people with severe motor disabilities to interact with VR. See their [VERA Locomotion YouTube Video](https://www.youtube.com/watch?v=ZX9FqlIL7lw&ab_channel=CristianMerino) for details. *Note: This repository is an unsupported archive. Its README says work continues in the [VERA](https://vera.research.ucf.edu/) tools.* |
 
 ### Unreal Engine
 
 <img src="https://i.imgur.com/8CGPfDT.png" alt="" width="220" align="right">
 
-1. [Unreal Engine home](https://www.unrealengine.com/en-US) - An overview of Unreal Engine, Unity's main competitor and a powerful 3D development platform.
+1. [Developing for XR Experiences in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/developing-for-xr-experiences-in-unreal-engine) - Epic's hub for Unreal's XR documentation, including setup, input, UI and performance.
 
-2. [Developing for XR Experiences in Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine/developing-for-xr-experiences-in-unreal-engine) - Epic's current guide to setting up Unreal for XR development.
+2. [Introduction to Accessible Design with Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-accessible-design-with-unreal-engine) - A tutorial course on how to develop accessible applications using Unreal.
 
-3. [Introduction to Accessible Design with Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses/introduction-to-accessible-design-with-unreal-engine) - A tutorial course on how to develop accessible applications using Unreal.
+3. [Accessible Realities](http://accessiblerealities.com/blog/) - A project by Zohar Gan to implement a number of accessible behaviors in XR using Unreal Engine.
 
-4. [Accessible Realities](http://accessiblerealities.com/blog/) - A project by Zohar Gan to implement a number of accessible behaviors in XR using Unreal Engine.
-
-5. [Unreal Engine Accessibility Toolkit](https://www.fab.com/listings/86b3b74f-7d8c-4ce3-9803-5d692ff124a4) - A toolkit designed to empower developers to make their projects accessible to a wider audience. (Not specific to XR.)
+4. [Unreal Engine Accessibility Toolkit](https://www.fab.com/listings/86b3b74f-7d8c-4ce3-9803-5d692ff124a4) - A toolkit designed to empower developers to make their projects accessible to a wider audience. (Not specific to XR.)
 
 <br clear="right" />
 
@@ -276,7 +283,7 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 <img src="https://i.imgur.com/UpZdSml.png" alt="" width="220" align="right">
 
 1. [Vision Pro Accessibility User Guide](https://support.apple.com/guide/apple-vision-pro/get-started-with-accessibility-features-tan426c48bdc/visionos) - An overview of Vision Pro's accessibility settings and how to enable them. You can also reference this [detailed walkthrough by Brian Tong](https://www.youtube.com/watch?v=b-GLz_VMCe4&ab_channel=BrianTong).
-2. [Get Started with visionOS](https://developer.apple.com/visionos/get-started/) - Apple's starting point for building Vision Pro apps, including guidance on supporting Apple's accessibility technologies.
+2. [Get Started with visionOS](https://developer.apple.com/visionos/get-started/) - Apple's starting point for building Vision Pro apps, including an "Embrace inclusion" section on accessibility labels, navigation and captions.
 3. [Create Accessible Spatial Experiences](https://developer.apple.com/videos/play/wwdc2023/10034) - This video, released at WWDC23, covers the basics of how developers can implement Vision Pro's accessibility features in their own applications.
 4. [Accessibility for UIKit](https://developer.apple.com/documentation/uikit/accessibility-for-uikit) - visionOS apps can be built with UIKit, so you can use UIKit's accessibility tools to check user preferences and enable or disable features like motion controls.
 5. [Human Interface Guidelines: Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility) - Apple's design guidance for making apps accessible across its platforms.
@@ -307,9 +314,9 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 
 <img src="https://i.imgur.com/o3QPbFq.png" alt="" width="200" align="right">
 
-*Note: Microsoft has discontinued HoloLens 2 and Windows Mixed Reality headsets. These resources are kept for reference.*
+*Note: Windows Mixed Reality was [removed from Windows 11 in version 24H2](https://learn.microsoft.com/en-us/windows/whats-new/removed-features), and Microsoft [stopped making HoloLens 2 in 2024](https://roadtovr.com/microsoft-hololens-2-discontinued-support-2027-hololens-3/), with critical security updates through 2027. These resources are kept for reference.*
 
-1. [MRTK home](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/) - Overview of the Mixed Reality Toolkit (MRTK), a project started by Microsoft that enables development for mixed reality applications in Unity. It is now maintained by the community on [GitHub](https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity).
+1. [MRTK home](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/) - Overview of the Mixed Reality Toolkit (MRTK), a project started by Microsoft that enables development for mixed reality applications in Unity. It is now maintained by the [Mixed Reality Toolkit Organization](https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity), whose maintainers come from several companies.
 2. [SignAR](https://github.com/eacooper/HoloLensSignARApp) - A HoloLens app for detecting, reading, and displaying text in the environment. See accompanying paper, [An Augmented Reality Sign-reading Assistant for Users with Reduced Vision](https://doi.org/10.1371/journal.pone.0210630). *Note: Uses Unity 5.4.0f3.*
 
 <br clear="right" />
@@ -338,9 +345,9 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 
 2. [WalkinVRDriver](https://www.walkinvrdriver.com/) - Software for SteamVR that offers accessibility features to people with disabilities, such as co-piloting, virtual motion and rotation, and Kinect-based controller replacement.
 
-3. [Quha Zono](https://www.quha.com/) - A gyroscopic, head-based mouse designed for people with motor disabilities.
+3. [Quha Zono](https://www.quha.com/products/quha-zono/) - A gyroscopic, head-based mouse designed for people with motor disabilities. Its successor is the Quha Zono 2.
 
-4. [EarSwitch](https://www.earswitch.co.uk/) - An ear camera that can pick up ear movement to use as a binary switch or potentially for eye tracking.
+4. [EarSwitch](https://www.earswitch.co.uk/) - A switch operated by tensing a small muscle in the ear, for hands-free control.
 
 <br />
 
@@ -349,8 +356,6 @@ The following solutions were developed as part of XR Access' [Prototype for the 
 1. [Accessibility Unlocked](https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
 
 2. [A Hacker's Guide to XR Accessibility](https://medium.com/@dylan.r.fox/a-hackers-guide-to-xr-accessibility-13a5ba0219c8) - An article for hackathon participants working on immersive technologies. Includes guidance on accessibility, open source codebases, and hacking suggestions.
-
-3. [What I Know About: Being Sick at Work](https://blog.bonnieeisenman.com/blog/being-sick-at-work/) - Advice on how to go about discussing accessibility and accommodations in the workplace.
 
 <br />
 
@@ -400,5 +405,9 @@ Some organizations that may be able to support user testing by people with disab
 
 The organizers would like to thank [Allison Cassels](https://allisoncassels.com/) for her support in improving the design of this page.
 
+## License
+
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" align="right" /></a>
-This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Except where noted below, the text of this page is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> ([full text](https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/LICENSE)). Code in this repository's `.github` folder is available under the [MIT License](https://github.com/XRAccessibility/xraccessibility.github.io/blob/main/.github/LICENSE).
+
+These licenses don't cover third-party material, including images, logos, trademarks, text quoted or excerpted from other sources, and the linked resources themselves. Those belong to their owners.
