@@ -125,7 +125,7 @@ New to accessible XR design? Start with these. Each one is also listed elsewhere
 
 <a href="https://github.com/MadisonAbilityLab/VRSight"><img src="https://raw.githubusercontent.com/dkillough/vrsight-images/7735b4f249b2a94c79f20903bcbc67b117faead1/comparison-noletters.png" width="240" align="left" alt="VRSight Comparison Image demonstrating object detection, depth estimation, and spatial audio output from the same image of two hands reaching out towards a table with interactive objects."></a>[VRSight: An AI-Driven Scene Description System to Improve Virtual Reality Accessibility for Blind People](https://github.com/MadisonAbilityLab/VRSight)
 
-VRSight provides spatial audio feedback for blind and low vision users in virtual reality (VR) environments by leveraging AI systems like real-time object detection, zero-shot depth estimation, and multimodal large language models. VRSight provides real-time audio descriptions and spatial interaction assistance without per-app developer integration, creating the first post hoc "3D screen reading" system for VR.
+A research tool that uses AI to describe VR scenes to blind and low vision people through spatial audio, without changes to individual apps. It should work with any headset whose view can be cast to a computer. *Note: Setup takes about an hour and likely requires help from a sighted person who knows the command line.*
 
 <br />
 
@@ -143,7 +143,7 @@ This paper describes Lemmings, an in-development open source code library create
 
 <a href="https://ceal.cs.columbia.edu/surveyor/"><img src="https://ceal.cs.columbia.edu/static/images/surveyor/overview.jpg" width="240" align="left" alt="Interior view of a medium-sized room with several large crates side-by-side. There is an opening between two of the crates, and an open doorway is at the far end of the room. The player is in front of this open doorway. There are red, yellow, and green boxes drawn on the ground, and a purple line extending from the player."></a>[Surveyor](https://ceal.cs.columbia.edu/surveyor/)
 
-Surveyor enables blind and low-vision players to explore and discover things in video game environments in a self-directed manner, performing a similar sequence of actions that a sighted player would when they explore. Watch: [Beyond Access: Meaningful Accessibility in Video Games](https://www.youtube.com/watch?v=h2eXGIxhnwo&t=2265s)
+A research tool that helps blind and low vision players explore game worlds and find things for themselves, instead of following a set path. Players scan their surroundings by direction while the tool tracks what they've already explored. Watch: [Beyond Access: Meaningful Accessibility in Video Games](https://www.youtube.com/watch?v=h2eXGIxhnwo&t=2265s)
 
 <br />
 
@@ -167,23 +167,23 @@ A two-week diary study in which 16 blind and low vision people used an app that 
 
 ## W3C Standards
 
-1. [XAUR: XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) - This document lists user needs and requirements for people with disabilities when using virtual reality or immersive environments, augmented or mixed reality and other related technologies (XR).
+1. [XAUR: XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) - User needs and requirements for virtual, augmented and mixed reality, including magnification, voice commands, captions, spatial audio alternatives and avoiding sickness triggers.
 
-2. [SAUR: Synchronization Accessibility User Requirements](https://www.w3.org/TR/saur/) - This document summarizes relevant research, then outlines accessibility-related user needs and associated requirements for the synchronization of audio and visual media. The scope of the discussion includes synchronization of accessibility-related components of multimedia, such as captions, sign language interpretation, and descriptions. The requirements identified herein are also applicable to multimedia content in general, as well as real-time communication applications and media occurring in immersive environments.
+2. [SAUR: Synchronization Accessibility User Requirements](https://www.w3.org/TR/saur/) - How closely captions, sign language interpretation and descriptions need to stay in sync with audio and video, based on a review of research. It also applies to live communication and immersive environments.
 
-3. [NAUR: Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) - This document outlines accessibility-related user needs, requirements and scenarios for natural language interfaces.
+3. [NAUR: Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) - How chatbots, smart speakers and other natural language interfaces can work for people with disabilities, covering speech recognition, clear language, enough time to respond and recovering from errors.
 
-4. [RAUR: RTC Accessibility User Requirements](https://www.w3.org/TR/raur/) - This document outlines various accessibility related user needs, requirements and scenarios for real-time communication (RTC).
+4. [RAUR: RTC Accessibility User Requirements](https://www.w3.org/TR/raur/) - Accessibility needs in calls and other real-time communication, such as captions, signing, real-time text, relay services and video quality.
 
-5. [Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/) - This document summarizes considerations of accessibility that arise in the conduct of remote and hybrid meetings. Such meetings are mediated, for some or all participants, by real-time communication software typically built upon Web technologies.
+5. [Accessibility of Remote Meetings](https://www.w3.org/TR/remote-meetings/) - Guidance on making remote and hybrid meetings accessible, from choosing software and preparing materials to what hosts and participants can do.
 
-6. [CTAUR: Collaboration Tools Accessibility User Requirements](https://www.w3.org/TR/ctaur/) - This document outlines various accessibility-related user needs, requirements and scenarios for collaboration tools. The tools of interest are distinguished by their support for one or more specific collaborative features. These features include real-time editing of content by multiple authors, the use of comments or annotations, and revision control.
+6. [CTAUR: Collaboration Tools Accessibility User Requirements](https://www.w3.org/TR/ctaur/) - Looks at accessibility when people work together online, including co-editing, annotations, version control, notifications and access controls.
 
-7. [MAUR: Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) - This document presents the accessibility requirements users with disabilities have with respect to audio and video on the web.
+7. [MAUR: Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) - Requirements for audio and video on the web, organized by type of disability and by alternatives such as captions, described video, sign translation and transcripts. Includes a checklist.
 
-8. [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) - This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. This specification defines support that applies across multiple content technologies, including general keyboard navigation support and mapping of general-purpose roles, states, and properties provided in Web content via WAI-ARIA.
+8. [Core Accessibility API Mappings 1.2](https://www.w3.org/TR/core-aam-1.2/) - A technical specification for browser makers on exposing web content, including ARIA roles, states and properties, to the accessibility APIs that assistive technologies use.
 
-9. [Graphics Accessibility API Mappings](https://www.w3.org/TR/graphics-aam-1.0/) - The Graphics Accessibility API Mappings defines how user agents map the WAI-ARIA Graphics Module markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility of graphics.
+9. [Graphics Accessibility API Mappings](https://www.w3.org/TR/graphics-aam-1.0/) - A technical specification for browser makers on exposing graphics such as SVG to assistive technologies, so that charts and diagrams can carry meaning.
 
 10. [Recommendations for Accessible Captions in 360 Degree Video](https://www.w3.org/community/reports/immersive-captions/CG-FINAL-360-captions-20240412/) - The W3C Immersive Caption Community Group's recommendations on accessible captions for 360 degree video, including speaker identification, caption anchoring, seek by caption, and more.
 
